@@ -2,7 +2,7 @@
 id: 46gvp7zdql9zo4pw4aw7sd2
 title: '202207010800'
 desc: ''
-updated: 1656662863802
+updated: 1656952209954
 created: 1656622570481
 ---
 
@@ -30,9 +30,9 @@ created: 1656622570481
 
 ## Discussions sur les convertisseurs d'énergie
 
-- Convertisseur basique (resistance + resitance variable)
-    - +: tres robuste
-    - -: rendement tres faible (trop de perte)
+- Convertisseur basique (resistance + résistance variable)
+    - +: très robuste
+    - -: rendement très faible (trop de perte)
 
 - Convertisseur type régulateur linéaire
     - ...
@@ -40,9 +40,9 @@ created: 1656622570481
 - Convertisseur type Hasher
     - commutation d'interrupteur
     - pas de puissance sur position ouvert et ferme d'un interrupteur
-    - par contre a chaque switch une puissance (tres grande) est emise (d'où la necessité d'un dissipateur de chaleur)
+    - par contre a chaque switch une puissance (très grande) est émise (d'où la nécessité d'un dissipateur de chaleur)
 
-- Probleme du hasher c'est l'impossibilte parfois de permutter entre charge et decharge (i.e. charger telephone) -> necessité d'un filtre 
+- Problème du hasher c'est impossibilité parfois de permuter entre charge et décharge (i.e. charger telephone) -> nécessité d'un filtre 
 
 - Cellule de commutation
     - cellule simple
@@ -54,8 +54,8 @@ created: 1656622570481
 
 - Observer le courant parasite absorbé par le bus continu avec un tor ou un rsil
 
-- rsil = reseau stabilisateur d'impédence de ligne
+- rsil = reseau stabilisateur d'impédance de ligne
 
-- Evaluer le spectre de perturbation electro-magnétique apres variation du découpage/rapport cyclique
+- Evaluer le spectre de perturbation electro-magnétique après variation du découpage/rapport cyclique
 
 - notions à voir: courant commun, mode différentielle, cellule de commutation
