@@ -2,7 +2,7 @@
 id: zew0272lkhnespesu1u8poy
 title: CEM
 desc: ''
-updated: 1656619982800
+updated: 1656942972507
 created: 1656619679882
 ---
 
@@ -16,6 +16,7 @@ created: 1656619679882
 
 # Notions Importantes
 
-## Notion CEM1
+## Gammes de Fréquences Concernées
 
-...
+![](/assets/images/courbe.GammeFreqCEM.png){max-width: 600px, display: block, margin: 0 auto}
+
