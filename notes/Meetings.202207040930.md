@@ -2,7 +2,7 @@
 id: xlmqt8j603149nttemahpc3
 title: '202207040930'
 desc: ''
-updated: 1656953254750
+updated: 1657038093689
 created: 1656922993577
 ---
 
@@ -112,7 +112,7 @@ $$
 
 ![](/assets/images/output.CommutationHacheur.png){max-width: 600px, display: block, margin: 0 auto}
 
-## Impédance
+## Impédance (à approfondir)
 
 - Impédance Linéaire _(valide pour un signal sinusoïdale)_
 $$
