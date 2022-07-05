@@ -2,7 +2,7 @@
 id: p7kwup5sv8nc6kgjmed8182
 title: Lexique
 desc: ''
-updated: 1657024138763
+updated: 1657038798010
 created: 1656623258277
 ---
 
@@ -14,9 +14,12 @@ created: 1656623258277
 
 ## Gamme de fréquences concernées
 
-![[CEM#gammes-de-fréquences-concernées,1]]
+![[CEM#gammes-de-fréquences-concernées,1:#*]]
 
-## ...
+## Mode Commun et Mode Différentiel
+
+![[CEM#mode-commun-et-mode-différentiel,1:#*]]
+
 
 
 
