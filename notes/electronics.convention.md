@@ -2,8 +2,9 @@
 id: 5e2tlw4z8lz79ryhcpg2gff
 title: Convention
 desc: ''
-updated: 1657092228300
+updated: 1657106748274
 created: 1657092204601
+nav_exclude: true
 ---
 
 # Convention d'écriture

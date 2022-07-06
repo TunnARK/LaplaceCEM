@@ -2,8 +2,9 @@
 id: igqwe6wc30abx6k89c8bnla
 title: Symbols
 desc: ''
-updated: 1656948589298
+updated: 1657106739080
 created: 1656947271344
+nav_exclude: true
 ---
 
 # Symboles en électronique

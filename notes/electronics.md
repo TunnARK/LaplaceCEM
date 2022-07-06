@@ -1,9 +1,10 @@
 ---
 id: 9v4uvpqrwm0c54j3eohyuuz
-title: Electronics
+title: Éléctroniques
 desc: ''
-updated: 1657092537633
+updated: 1657106578690
 created: 1656947234362
+nav_order: 40
 ---
 
 # Convention d'écriture

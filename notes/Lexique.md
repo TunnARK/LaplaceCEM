@@ -2,8 +2,9 @@
 id: p7kwup5sv8nc6kgjmed8182
 title: Lexique
 desc: ''
-updated: 1657038798010
+updated: 1657106663808
 created: 1656623258277
+nav_order: 70
 ---
 
 # Notions Fondamentales en CEM
