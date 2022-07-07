@@ -2,7 +2,7 @@
 id: 5rf6eplv88n6y9vptvze4hn
 title: Stage d'Été au LAPLACE
 desc: ''
-updated: 1657106483721
+updated: 1657107278098
 created: 1656613772927
 ---
 
@@ -17,13 +17,3 @@ created: 1656613772927
 # À propos
 
 Ce dossier répertorie les travaux réalisés par Antoine RONK lors de son stage d'été au laboratoire de recherche LAPLACE de l'Université Paul Sabatier de Toulouse.
-
-lap
-exp
-meet
-elec
-ce
-cem
-lex
-q
-st
