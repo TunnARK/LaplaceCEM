@@ -2,7 +2,7 @@
 id: sa2wl7eipsrh6hg7li052oe
 title: Meetings
 desc: ''
-updated: 1657106543205
+updated: 1657201101321
 created: 1656622427215
 nav_order: 30
 ---
@@ -18,3 +18,7 @@ nav_order: 30
 # Débriefing du 2022/07/06
 
 ![[Meetings.202207060900]]
+
+# Débriefing du 2022/07/07
+
+![[Meetings.202207071600]]
