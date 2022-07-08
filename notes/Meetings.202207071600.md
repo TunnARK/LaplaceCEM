@@ -2,14 +2,15 @@
 id: cab05mtsxc3z3iw6x1h28s8
 title: '202207071600'
 desc: ''
-updated: 1657201313520
+updated: 1657282819337
 created: 1657200476200
+nav_exclude: true
 ---
-> Date: 2022/07/07
+> Date: 2022/07/??
 
-> Heure de départ: 16h00
+> Heure de départ: ??
 
-> Heure de fin: 17h30
+> Heure de fin: ??
 
 # Participants
 
@@ -27,8 +28,16 @@ created: 1657200476200
 
 ## 1. DC2736A
 
-![[equipements.DC2726A#data-sheet-DC2726A,0]]
+![[equipements.DC2726A#data-sheet-DC2726A,0:#*]]
 
 ## 2. ENV216
 
-![[equipements.ENV216#data-sheet-env216,0]]
+![[equipements.ENV216#data-sheet-env216,0:#*]]
+
+## 3. FPC-COM2
+
+![[equipements.FPC-COM2#data-sheet-fpc-com2,0:#]]
+
+## 4. EZ-17
+
+![[equipements.EZ-17#data-sheet-ez-17,0:#]]
