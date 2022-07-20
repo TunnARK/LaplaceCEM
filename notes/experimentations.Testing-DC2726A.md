@@ -2,7 +2,7 @@
 id: 4wugiluvk7argu4xko8a3js
 title: Testing DC2726A
 desc: ''
-updated: 1658319829796
+updated: 1658322145323
 created: 1658318862796
 ---
 
@@ -35,8 +35,9 @@ created: 1658318862796
     - The measurements do not stabilize (even after 1min waiting) ;
     - We obtain a loss of $10\%$ on the output.
 
-Here are the measurements that we have taken :
-![](/assets/images/exp.MesuresTestDCKEL.ExcelPrint.png){max-width: 800px, display: block, margin: 0 auto}
+Here are the measurements that we have taken : $\qquad\qquad\qquad$ ([Donwload PDF](https://github.com/TunnRKA/LaplaceCEM/blob/master/notes/assets/2022.07.20.LaplaceCEM.TestingDC2736A.pdf))
+
+![](/assets/images/exp.MesuresTestDCKEL.ExcelPrintEN.png){max-width: 800px, display: block, margin: 0 auto}
 
 # Devices Used
 
@@ -66,8 +67,8 @@ Here are the measurements that we have taken :
 ![](/assets/images/exp.MesuresTestDCKEL.PicKelFront.png){max-width: 600px, display: block, margin: 0 auto}
 
 - The measurements were made with the following methods:
-    - Front (2-wire modes): the cables carry current (which induces a voltage drop)
-    - Back (4-wires modes): the cables do not carry current
+    - [[equipements.KEL103]] Front Plug (2-wire modes): the cables carry current (which induces a voltage drop)
+    - [[equipements.KEL103]] Back Plug (4-wires modes): the cables do not carry current
 
 ![](/assets/images/exp.MesuresTestDCKEL.CircuitMesure4fils.png){max-width: 600px, display: block, margin: 0 auto}
 
