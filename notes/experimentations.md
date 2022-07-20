@@ -1,18 +1,16 @@
 ---
 id: hh5zshxy0qy3vz7qtq8qqal
-title: Éxpérimentations
+title: Experimentations
 desc: ''
-updated: 1657106523751
+updated: 1658309452996
 created: 1657102933569
 nav_order: 20
 ---
 
-# Éxpérimentation du 2022/07/05
+# Mesures du Temps Mort
 
-![](/assets/images/exp.MesureTempsMort.png){max-width: 600px, display: block, margin: 0 auto}
+![[experimentations.TempsMort]]
 
-## Mesures du temps mort
+# Test Rendement DCKEL
 
-- Temps mort différent !
-- Le premier a $\;80ns$
-- Le second a $\;100ns$
+![[experimentations.MesuresTestDCKEL]]

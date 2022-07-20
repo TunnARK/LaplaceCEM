@@ -2,9 +2,13 @@
 id: wbqegxko6astomwho1856gc
 title: Mesures Test DCKEL
 desc: ''
-updated: 1658308832988
+updated: 1658309619718
 created: 1658303624542
 ---
+
+> Date : 2022/07/18, 2022/07/19
+
+> Status : In Progress
 
 # Objectif
 
