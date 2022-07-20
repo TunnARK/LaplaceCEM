@@ -2,7 +2,7 @@
 id: utlgnhdux3bt90j2w3b9p2r
 title: DC2726A
 desc: ''
-updated: 1657207312504
+updated: 1658304874787
 created: 1657195615975
 ---
 
@@ -100,5 +100,4 @@ off the input power supply.
 
 ## Efficiency vs Load Current
 
-- at $V_{OUT} = 12V$ and $f_{SW} = 500kHz$
 ![](/assets/images/dc2736a.measure.EfficiencyVsLoad.Vout12vFsw500hz.png){max-width: 300px, display: block, margin: 0 auto}
