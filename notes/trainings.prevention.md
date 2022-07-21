@@ -2,7 +2,7 @@
 id: ib8zl3p4i75ltwzhuyo5eqp
 title: Prevention
 desc: ''
-updated: 1658385819612
+updated: 1658386128842
 created: 1658137427589
 ---
 
@@ -94,7 +94,7 @@ created: 1658137427589
 
 # Quiz <!--LOCAL_ONLY_LINE-->
 
-![](/assets/images/trainings.prevention.Q1.png)
+![](/assets/images/trainings.prevention.Q1.png)<!--LOCAL_ONLY_LINE-->
 
 ![](/assets/images/trainings.prevention.Q2.png)<!--LOCAL_ONLY_LINE-->
 
