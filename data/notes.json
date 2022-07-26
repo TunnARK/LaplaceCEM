@@ -1,0 +1,5432 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1658835654682,
+      "created": 1658835654682,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "5rf6eplv88n6y9vptvze4hn": {
+      "id": "5rf6eplv88n6y9vptvze4hn",
+      "title": "Stage d'Été au LAPLACE",
+      "desc": "",
+      "updated": 1657107278098,
+      "created": 1656613772927,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "6018288a017838bf9521adeeb9b78e10",
+      "links": [],
+      "anchors": {
+        "avertissements": {
+          "type": "header",
+          "text": "Avertissements",
+          "value": "avertissements",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "à-propos": {
+          "type": "header",
+          "text": "À propos",
+          "value": "à-propos",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "4f6k6zb97u27d1kbsjtnl2r",
+        "zew0272lkhnespesu1u8poy",
+        "6pwtixenmf5v99cqx26ffok",
+        "p7kwup5sv8nc6kgjmed8182",
+        "sa2wl7eipsrh6hg7li052oe",
+        "fgo6qop4ppb1plx9ljnj4rx",
+        "9v4uvpqrwm0c54j3eohyuuz",
+        "lf4m1v6zueilycz2gzb7m5t",
+        "hh5zshxy0qy3vz7qtq8qqal",
+        "m0fzmzw0ymejo8ydrupqqv8",
+        "lq9ooc0pngdmdnu21102wgk",
+        "245jbzz3wpdjvsdgmes2bn4"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "245jbzz3wpdjvsdgmes2bn4": {
+      "id": "245jbzz3wpdjvsdgmes2bn4",
+      "title": "Trainings",
+      "desc": "",
+      "updated": 1658140494860,
+      "created": 1658130353264,
+      "custom": {},
+      "fname": "trainings",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "a7e102b55c01dd6d7ec3f63b3bac6e95",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "trainings",
+            "id": "245jbzz3wpdjvsdgmes2bn4",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "trainings.chemical-risk",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 18
+            },
+            "end": {
+              "line": 4,
+              "column": 29,
+              "offset": 46
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "trainings.chemical-risk"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "trainings",
+            "id": "245jbzz3wpdjvsdgmes2bn4",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "trainings.fire-risk",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 61
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 85
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "trainings.fire-risk"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "trainings",
+            "id": "245jbzz3wpdjvsdgmes2bn4",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "trainings.prevention",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 101
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 126
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "trainings.prevention"
+          }
+        }
+      ],
+      "anchors": {
+        "chemical-risk": {
+          "type": "header",
+          "text": "Chemical Risk",
+          "value": "chemical-risk",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "fire-risk": {
+          "type": "header",
+          "text": "Fire Risk",
+          "value": "fire-risk",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "prevention": {
+          "type": "header",
+          "text": "Prevention",
+          "value": "prevention",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "5h5o0l3153ugge25v53h8cu",
+        "mmp77xas9d5l1vyoe90etvx",
+        "ib8zl3p4i75ltwzhuyo5eqp"
+      ],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "ib8zl3p4i75ltwzhuyo5eqp": {
+      "id": "ib8zl3p4i75ltwzhuyo5eqp",
+      "title": "Prevention",
+      "desc": "",
+      "updated": 1658386128842,
+      "created": 1658137427589,
+      "custom": {},
+      "fname": "trainings.prevention",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "a2ef4feaf8da43fa39ad240cb103c298",
+      "links": [
+        {
+          "from": {
+            "fname": "trainings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 101
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 126
+            },
+            "indent": []
+          },
+          "value": "trainings.prevention"
+        }
+      ],
+      "anchors": {
+        "objectives": {
+          "type": "header",
+          "text": "Objectives:",
+          "value": "objectives",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "lessons": {
+          "type": "header",
+          "text": "Lessons",
+          "value": "lessons",
+          "line": 18,
+          "column": 0,
+          "depth": 1
+        },
+        "what-is-prevention-": {
+          "type": "header",
+          "text": "What is prevention ?",
+          "value": "what-is-prevention-",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "health-and-safety-stakeholders": {
+          "type": "header",
+          "text": "Health and safety stakeholders",
+          "value": "health-and-safety-stakeholders",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "collective-and-personal-protection": {
+          "type": "header",
+          "text": "Collective and personal protection",
+          "value": "collective-and-personal-protection",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        },
+        "best-practices-and-work-organisation": {
+          "type": "header",
+          "text": "Best practices and work organisation",
+          "value": "best-practices-and-work-organisation",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-deal-with-an-accident-or-incident": {
+          "type": "header",
+          "text": "How to deal with an accident or incident",
+          "value": "how-to-deal-with-an-accident-or-incident",
+          "line": 84,
+          "column": 0,
+          "depth": 2
+        },
+        "quiz": {
+          "type": "header",
+          "text": "Quiz",
+          "value": "quiz",
+          "line": 94,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "245jbzz3wpdjvsdgmes2bn4",
+      "data": {}
+    },
+    "mmp77xas9d5l1vyoe90etvx": {
+      "id": "mmp77xas9d5l1vyoe90etvx",
+      "title": "Fire Risk",
+      "desc": "",
+      "updated": 1658386877657,
+      "created": 1658133565080,
+      "custom": {},
+      "fname": "trainings.fire-risk",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "0df0a784d8ede157a171173d8caa9e75",
+      "links": [
+        {
+          "from": {
+            "fname": "trainings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 61
+            },
+            "end": {
+              "line": 8,
+              "column": 25,
+              "offset": 85
+            },
+            "indent": []
+          },
+          "value": "trainings.fire-risk"
+        }
+      ],
+      "anchors": {
+        "objectives": {
+          "type": "header",
+          "text": "Objectives:",
+          "value": "objectives",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "lessons": {
+          "type": "header",
+          "text": "Lessons",
+          "value": "lessons",
+          "line": 18,
+          "column": 0,
+          "depth": 1
+        },
+        "what-is-fire-": {
+          "type": "header",
+          "text": "What is fire ?",
+          "value": "what-is-fire-",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "electrical-fires": {
+          "type": "header",
+          "text": "Electrical Fires",
+          "value": "electrical-fires",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "chemical-fires": {
+          "type": "header",
+          "text": "Chemical Fires",
+          "value": "chemical-fires",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "storage-of-flammable-materials": {
+          "type": "header",
+          "text": "Storage of flammable materials",
+          "value": "storage-of-flammable-materials",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "taking-action-when-a-fire-breaks-out": {
+          "type": "header",
+          "text": "Taking action when a fire breaks out",
+          "value": "taking-action-when-a-fire-breaks-out",
+          "line": 66,
+          "column": 0,
+          "depth": 2
+        },
+        "quiz": {
+          "type": "header",
+          "text": "Quiz",
+          "value": "quiz",
+          "line": 92,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "245jbzz3wpdjvsdgmes2bn4",
+      "data": {}
+    },
+    "5h5o0l3153ugge25v53h8cu": {
+      "id": "5h5o0l3153ugge25v53h8cu",
+      "title": "Chemical Risk",
+      "desc": "",
+      "updated": 1658387007354,
+      "created": 1658130353236,
+      "custom": {},
+      "fname": "trainings.chemical-risk",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "883ab9120faedf0d22dc1d2b2e15b820",
+      "links": [
+        {
+          "from": {
+            "fname": "trainings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 18
+            },
+            "end": {
+              "line": 4,
+              "column": 29,
+              "offset": 46
+            },
+            "indent": []
+          },
+          "value": "trainings.chemical-risk"
+        }
+      ],
+      "anchors": {
+        "objectives": {
+          "type": "header",
+          "text": "Objectives:",
+          "value": "objectives",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "lessons": {
+          "type": "header",
+          "text": "Lessons",
+          "value": "lessons",
+          "line": 18,
+          "column": 0,
+          "depth": 1
+        },
+        "how-can-chemical-hazards-be-identified-": {
+          "type": "header",
+          "text": "How can chemical hazards be identified ?",
+          "value": "how-can-chemical-hazards-be-identified-",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "how-can-chemical-risk-be-managed": {
+          "type": "header",
+          "text": "How can chemical risk be managed?",
+          "value": "how-can-chemical-risk-be-managed",
+          "line": 57,
+          "column": 0,
+          "depth": 2
+        },
+        "protecting-yourself-against-chemical-risk": {
+          "type": "header",
+          "text": "Protecting yourself against chemical risk",
+          "value": "protecting-yourself-against-chemical-risk",
+          "line": 70,
+          "column": 0,
+          "depth": 2
+        },
+        "storage-waste-transport": {
+          "type": "header",
+          "text": "Storage Waste Transport",
+          "value": "storage-waste-transport",
+          "line": 97,
+          "column": 0,
+          "depth": 2
+        },
+        "what-you-should-do-in-case-of-accident": {
+          "type": "header",
+          "text": "What you should do in case of accident",
+          "value": "what-you-should-do-in-case-of-accident",
+          "line": 111,
+          "column": 0,
+          "depth": 2
+        },
+        "quiz": {
+          "type": "header",
+          "text": "Quiz",
+          "value": "quiz",
+          "line": 122,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "245jbzz3wpdjvsdgmes2bn4",
+      "data": {}
+    },
+    "lq9ooc0pngdmdnu21102wgk": {
+      "id": "lq9ooc0pngdmdnu21102wgk",
+      "title": "Questions",
+      "desc": "",
+      "updated": 1657106674506,
+      "created": 1656945864534,
+      "nav_order": 80,
+      "custom": {
+        "nav_order": 80
+      },
+      "fname": "questions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "0a9c06a3aa26defafad12323c74ae77c",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "questions",
+            "id": "lq9ooc0pngdmdnu21102wgk",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Meetings.202207040930",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 89
+            },
+            "end": {
+              "line": 6,
+              "column": 70,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "Meetings.202207040930",
+            "anchorHeader": "perturbation-liées-aux-convertisseurs:#*"
+          }
+        }
+      ],
+      "anchors": {
+        "q-signification-de-t_m-": {
+          "type": "header",
+          "text": "Q: Signification de $\\;T_m\\;$ ?",
+          "value": "q-signification-de-t_m-",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "m0fzmzw0ymejo8ydrupqqv8": {
+      "id": "m0fzmzw0ymejo8ydrupqqv8",
+      "title": "Précis d'éléctricité",
+      "desc": "",
+      "updated": 1657715637317,
+      "created": 1657188819369,
+      "custom": {},
+      "fname": "precis",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "4d1b58533368beae641b8ac5e5020886",
+      "links": [
+        {
+          "from": {
+            "fname": "Meetings.202207060900",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 43,
+              "column": 96,
+              "offset": 1039
+            },
+            "end": {
+              "line": 43,
+              "column": 106,
+              "offset": 1049
+            },
+            "indent": []
+          },
+          "value": "precis",
+          "alias": "precis"
+        }
+      ],
+      "anchors": {
+        "1--électricité-en-régime-continu": {
+          "type": "header",
+          "text": "1- Électricité en régime continu",
+          "value": "1--électricité-en-régime-continu",
+          "line": 10,
+          "column": 0,
+          "depth": 1
+        },
+        "1-1-grandeurs-électriques": {
+          "type": "header",
+          "text": "1-1. Grandeurs électriques",
+          "value": "1-1-grandeurs-électriques",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "courant-électrique": {
+          "type": "header",
+          "text": "Courant électrique",
+          "value": "courant-électrique",
+          "line": 15,
+          "column": 0,
+          "depth": 4
+        },
+        "potentiel-électrique": {
+          "type": "header",
+          "text": "Potentiel électrique",
+          "value": "potentiel-électrique",
+          "line": 24,
+          "column": 0,
+          "depth": 4
+        },
+        "sens-de-déplacement-du-courant": {
+          "type": "header",
+          "text": "Sens de déplacement du courant",
+          "value": "sens-de-déplacement-du-courant",
+          "line": 33,
+          "column": 0,
+          "depth": 4
+        },
+        "notion-de-résistance": {
+          "type": "header",
+          "text": "Notion de résistance",
+          "value": "notion-de-résistance",
+          "line": 39,
+          "column": 0,
+          "depth": 4
+        },
+        "1-2-symboles-et-modèles-électriques": {
+          "type": "header",
+          "text": "1-2. Symboles et modèles électriques",
+          "value": "1-2-symboles-et-modèles-électriques",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "1-3-les-lois-de-kirchhoff": {
+          "type": "header",
+          "text": "1-3. Les lois de Kirchhoff",
+          "value": "1-3-les-lois-de-kirchhoff",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        },
+        "1-4-loi-dohm-et-conventions-récepteurgénérateur": {
+          "type": "header",
+          "text": "1-4. Loi d'Ohm et conventions récepteur/générateur",
+          "value": "1-4-loi-dohm-et-conventions-récepteurgénérateur",
+          "line": 48,
+          "column": 0,
+          "depth": 2
+        },
+        "1-5-résistances-équivalentes": {
+          "type": "header",
+          "text": "1-5. Résistances équivalentes",
+          "value": "1-5-résistances-équivalentes",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "1-6-ponts-diviseurs": {
+          "type": "header",
+          "text": "1-6. Ponts diviseurs",
+          "value": "1-6-ponts-diviseurs",
+          "line": 52,
+          "column": 0,
+          "depth": 2
+        },
+        "1-7-puissance-électrique-en-régime-continu": {
+          "type": "header",
+          "text": "1-7. Puissance électrique en régime continu",
+          "value": "1-7-puissance-électrique-en-régime-continu",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "2--réseaux-linéaires-en-régime-continu": {
+          "type": "header",
+          "text": "2- Réseaux Linéaires en régime continu",
+          "value": "2--réseaux-linéaires-en-régime-continu",
+          "line": 56,
+          "column": 0,
+          "depth": 1
+        },
+        "2-1-définitions-générales": {
+          "type": "header",
+          "text": "2-1. Définitions générales",
+          "value": "2-1-définitions-générales",
+          "line": 58,
+          "column": 0,
+          "depth": 2
+        },
+        "2-2-méthode-de-kirchhoff": {
+          "type": "header",
+          "text": "2-2. Méthode de Kirchhoff",
+          "value": "2-2-méthode-de-kirchhoff",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "2-3-principe-de-superposition": {
+          "type": "header",
+          "text": "2-3. Principe de superposition",
+          "value": "2-3-principe-de-superposition",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "2-4-théorème-de-millman": {
+          "type": "header",
+          "text": "2-4. Théorème de Millman",
+          "value": "2-4-théorème-de-millman",
+          "line": 64,
+          "column": 0,
+          "depth": 2
+        },
+        "2-5-théorèmes-du-dipôle-linéaire": {
+          "type": "header",
+          "text": "2-5. Théorèmes du dipôle linéaire",
+          "value": "2-5-théorèmes-du-dipôle-linéaire",
+          "line": 66,
+          "column": 0,
+          "depth": 2
+        },
+        "3--du-régime-variable-au-régime-alternatif-sinusoïdal": {
+          "type": "header",
+          "text": "3- Du régime variable au régime alternatif sinusoïdal",
+          "value": "3--du-régime-variable-au-régime-alternatif-sinusoïdal",
+          "line": 68,
+          "column": 0,
+          "depth": 1
+        },
+        "3-1-représentation-temporelle-et-grandeurs-caractéristiques": {
+          "type": "header",
+          "text": "3-1. Représentation temporelle et grandeurs caractéristiques",
+          "value": "3-1-représentation-temporelle-et-grandeurs-caractéristiques",
+          "line": 70,
+          "column": 0,
+          "depth": 2
+        },
+        "3-2-puissances-électriques-en-régime-alternatif": {
+          "type": "header",
+          "text": "3-2. Puissances électriques en régime alternatif",
+          "value": "3-2-puissances-électriques-en-régime-alternatif",
+          "line": 72,
+          "column": 0,
+          "depth": 2
+        },
+        "3-3-composants-réactifs": {
+          "type": "header",
+          "text": "3-3. Composants réactifs",
+          "value": "3-3-composants-réactifs",
+          "line": 74,
+          "column": 0,
+          "depth": 2
+        },
+        "4--réseaux-linéaires-en-régime-alternatif-sinusoïdal": {
+          "type": "header",
+          "text": "4- Réseaux linéaires en régime alternatif sinusoïdal",
+          "value": "4--réseaux-linéaires-en-régime-alternatif-sinusoïdal",
+          "line": 76,
+          "column": 0,
+          "depth": 1
+        },
+        "4-1-outils-mathématiques": {
+          "type": "header",
+          "text": "4-1. Outils mathématiques",
+          "value": "4-1-outils-mathématiques",
+          "line": 78,
+          "column": 0,
+          "depth": 2
+        },
+        "4-2-lois-et-théorèmes-en-régime-alternatif-sinusoïdal": {
+          "type": "header",
+          "text": "4-2. Lois et théorèmes en régime alternatif sinusoïdal",
+          "value": "4-2-lois-et-théorèmes-en-régime-alternatif-sinusoïdal",
+          "line": 80,
+          "column": 0,
+          "depth": 2
+        },
+        "5--régime-transitoire": {
+          "type": "header",
+          "text": "5- Régime transitoire",
+          "value": "5--régime-transitoire",
+          "line": 82,
+          "column": 0,
+          "depth": 1
+        },
+        "5-1-utilisation-dun-oscilloscope": {
+          "type": "header",
+          "text": "5-1. Utilisation d'un oscilloscope",
+          "value": "5-1-utilisation-dun-oscilloscope",
+          "line": 84,
+          "column": 0,
+          "depth": 2
+        },
+        "5-2-régime-transitoire-dans-un-circuit-rc": {
+          "type": "header",
+          "text": "5-2. Régime transitoire dans un circuit RC",
+          "value": "5-2-régime-transitoire-dans-un-circuit-rc",
+          "line": 86,
+          "column": 0,
+          "depth": 2
+        },
+        "5-3-régime-transitoire-dans-un-circuit-rl": {
+          "type": "header",
+          "text": "5-3. Régime transitoire dans un circuit RL",
+          "value": "5-3-régime-transitoire-dans-un-circuit-rl",
+          "line": 88,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "hh5zshxy0qy3vz7qtq8qqal": {
+      "id": "hh5zshxy0qy3vz7qtq8qqal",
+      "title": "Experimentations",
+      "desc": "",
+      "updated": 1658318938063,
+      "created": 1657102933569,
+      "nav_order": 20,
+      "custom": {
+        "nav_order": 20
+      },
+      "fname": "experimentations",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "8e0f6ef167c7e754c83bc458861bc522",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations",
+            "id": "hh5zshxy0qy3vz7qtq8qqal",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "experimentations.Testing-DC2726A",
+          "alias": "Go to text in English",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 83
+            },
+            "end": {
+              "line": 8,
+              "column": 59,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "experimentations.Testing-DC2726A"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "experimentations",
+            "id": "hh5zshxy0qy3vz7qtq8qqal",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "experimentations.TempsMort",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 32,
+              "offset": 57
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "experimentations.TempsMort"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "experimentations",
+            "id": "hh5zshxy0qy3vz7qtq8qqal",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "experimentations.MesuresTestDCKEL",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 143
+            },
+            "end": {
+              "line": 10,
+              "column": 39,
+              "offset": 181
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "experimentations.MesuresTestDCKEL"
+          }
+        }
+      ],
+      "anchors": {
+        "mesures-du-temps-mort": {
+          "type": "header",
+          "text": "Mesures du Temps Mort",
+          "value": "mesures-du-temps-mort",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "test-rendement-dckel": {
+          "type": "header",
+          "text": "Test Rendement DCKEL",
+          "value": "test-rendement-dckel",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "wbqegxko6astomwho1856gc",
+        "qiedi143c4tdzcsako8v36j",
+        "4wugiluvk7argu4xko8a3js"
+      ],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "4wugiluvk7argu4xko8a3js": {
+      "id": "4wugiluvk7argu4xko8a3js",
+      "title": "Testing DC2726A",
+      "desc": "",
+      "updated": 1658322145323,
+      "created": 1658318862796,
+      "custom": {},
+      "fname": "experimentations.Testing-DC2726A",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "b1ddb17f6c3e3346c2e2a856b7bb0dd3",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "experimentations.MesuresTestDCKEL",
+          "alias": "Lien vers texte en Français",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 100
+            },
+            "end": {
+              "line": 6,
+              "column": 66,
+              "offset": 165
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "experimentations.MesuresTestDCKEL"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 53,
+              "offset": 232
+            },
+            "end": {
+              "line": 10,
+              "column": 76,
+              "offset": 255
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "Quick Start Procedure",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 14,
+              "offset": 270
+            },
+            "end": {
+              "line": 12,
+              "column": 83,
+              "offset": 339
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A",
+            "anchorHeader": "quick-start-procedure"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.GEN1500W",
+          "alias": "equipements.GEN1500W",
+          "position": {
+            "start": {
+              "line": 37,
+              "column": 13,
+              "offset": 1495
+            },
+            "end": {
+              "line": 37,
+              "column": 37,
+              "offset": 1519
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.GEN1500W"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.ENV216",
+          "alias": "equipements.ENV216",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 18,
+              "offset": 1537
+            },
+            "end": {
+              "line": 38,
+              "column": 40,
+              "offset": 1559
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.ENV216"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 20,
+              "offset": 1579
+            },
+            "end": {
+              "line": 39,
+              "column": 43,
+              "offset": 1602
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 13,
+              "offset": 1615
+            },
+            "end": {
+              "line": 40,
+              "column": 35,
+              "offset": 1637
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.KEL103"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103",
+          "position": {
+            "start": {
+              "line": 63,
+              "column": 7,
+              "offset": 2402
+            },
+            "end": {
+              "line": 63,
+              "column": 29,
+              "offset": 2424
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.KEL103"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 7,
+              "offset": 2514
+            },
+            "end": {
+              "line": 64,
+              "column": 29,
+              "offset": 2536
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.KEL103"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "id": "4wugiluvk7argu4xko8a3js",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103",
+          "position": {
+            "start": {
+              "line": 68,
+              "column": 37,
+              "offset": 2748
+            },
+            "end": {
+              "line": 68,
+              "column": 59,
+              "offset": 2770
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.KEL103"
+          }
+        },
+        {
+          "from": {
+            "fname": "experimentations",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 83
+            },
+            "end": {
+              "line": 8,
+              "column": 59,
+              "offset": 141
+            },
+            "indent": []
+          },
+          "value": "experimentations.Testing-DC2726A",
+          "alias": "Go to text in English"
+        }
+      ],
+      "anchors": {
+        "objective": {
+          "type": "header",
+          "text": "Objective",
+          "value": "objective",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "set-up": {
+          "type": "header",
+          "text": "Set Up",
+          "value": "set-up",
+          "line": 22,
+          "column": 0,
+          "depth": 1
+        },
+        "measurement-at-ta--33c-and-vin30v": {
+          "type": "header",
+          "text": "Measurement at $\\;TA = 33°C\\;$ and $\\;V{in}=30V\\;$",
+          "value": "measurement-at-ta--33c-and-vin30v",
+          "line": 26,
+          "column": 0,
+          "depth": 1
+        },
+        "devices-used": {
+          "type": "header",
+          "text": "Devices Used",
+          "value": "devices-used",
+          "line": 41,
+          "column": 0,
+          "depth": 1
+        },
+        "1-gen1500w": {
+          "type": "header",
+          "text": "1. GEN1500W",
+          "value": "1-gen1500w",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        },
+        "2-env216": {
+          "type": "header",
+          "text": "2. ENV216",
+          "value": "2-env216",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "3-dc2726a": {
+          "type": "header",
+          "text": "3. DC2726A",
+          "value": "3-dc2726a",
+          "line": 58,
+          "column": 0,
+          "depth": 3
+        },
+        "4-kel103": {
+          "type": "header",
+          "text": "4. KEL103",
+          "value": "4-kel103",
+          "line": 64,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "hh5zshxy0qy3vz7qtq8qqal",
+      "data": {}
+    },
+    "qiedi143c4tdzcsako8v36j": {
+      "id": "qiedi143c4tdzcsako8v36j",
+      "title": "Mesures du Temps Mort",
+      "desc": "",
+      "updated": 1658309558210,
+      "created": 1658309323788,
+      "custom": {},
+      "fname": "experimentations.TempsMort",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "a8ffdd94cb2609f7ff747292bbfa43b3",
+      "links": [
+        {
+          "from": {
+            "fname": "experimentations",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 32,
+              "offset": 57
+            },
+            "indent": []
+          },
+          "value": "experimentations.TempsMort"
+        }
+      ],
+      "anchors": {
+        "set-up": {
+          "type": "header",
+          "text": "Set Up",
+          "value": "set-up",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "mesures-du-temps-mort": {
+          "type": "header",
+          "text": "Mesures du temps mort",
+          "value": "mesures-du-temps-mort",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "hh5zshxy0qy3vz7qtq8qqal",
+      "data": {}
+    },
+    "wbqegxko6astomwho1856gc": {
+      "id": "wbqegxko6astomwho1856gc",
+      "title": "Mesures Test DCKEL",
+      "desc": "",
+      "updated": 1658311817459,
+      "created": 1658303624542,
+      "custom": {},
+      "fname": "experimentations.MesuresTestDCKEL",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "49a719c26d974a36b002fe3bd7f2cd69",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "Quick Start Procedure",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 74,
+              "offset": 143
+            },
+            "end": {
+              "line": 8,
+              "column": 143,
+              "offset": 212
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A",
+            "anchorHeader": "quick-start-procedure"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 251,
+              "offset": 320
+            },
+            "end": {
+              "line": 8,
+              "column": 274,
+              "offset": 343
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.GEN1500W",
+          "alias": "equipements.GEN1500W",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 13,
+              "offset": 1198
+            },
+            "end": {
+              "line": 33,
+              "column": 37,
+              "offset": 1222
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.GEN1500W"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.ENV216",
+          "alias": "equipements.ENV216",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 18,
+              "offset": 1240
+            },
+            "end": {
+              "line": 34,
+              "column": 40,
+              "offset": 1262
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.ENV216"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 20,
+              "offset": 1282
+            },
+            "end": {
+              "line": 35,
+              "column": 43,
+              "offset": 1305
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 13,
+              "offset": 1318
+            },
+            "end": {
+              "line": 36,
+              "column": 35,
+              "offset": 1340
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.KEL103"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "id": "wbqegxko6astomwho1856gc",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 41,
+              "offset": 2430
+            },
+            "end": {
+              "line": 64,
+              "column": 63,
+              "offset": 2452
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.KEL103"
+          }
+        },
+        {
+          "from": {
+            "fname": "experimentations",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 143
+            },
+            "end": {
+              "line": 10,
+              "column": 39,
+              "offset": 181
+            },
+            "indent": []
+          },
+          "value": "experimentations.MesuresTestDCKEL"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 100
+            },
+            "end": {
+              "line": 6,
+              "column": 66,
+              "offset": 165
+            },
+            "indent": []
+          },
+          "value": "experimentations.MesuresTestDCKEL",
+          "alias": "Lien vers texte en Français"
+        }
+      ],
+      "anchors": {
+        "objectif": {
+          "type": "header",
+          "text": "Objectif",
+          "value": "objectif",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "set-up": {
+          "type": "header",
+          "text": "Set Up",
+          "value": "set-up",
+          "line": 18,
+          "column": 0,
+          "depth": 1
+        },
+        "mesures-à-ta--33c-et-vin30v": {
+          "type": "header",
+          "text": "Mesures à $\\;TA = 33°C\\;$ et $\\;V{in}=30V\\;$",
+          "value": "mesures-à-ta--33c-et-vin30v",
+          "line": 22,
+          "column": 0,
+          "depth": 1
+        },
+        "equipements": {
+          "type": "header",
+          "text": "Equipements",
+          "value": "equipements",
+          "line": 37,
+          "column": 0,
+          "depth": 1
+        },
+        "1-gen1500w": {
+          "type": "header",
+          "text": "1. GEN1500W",
+          "value": "1-gen1500w",
+          "line": 44,
+          "column": 0,
+          "depth": 3
+        },
+        "2-env216": {
+          "type": "header",
+          "text": "2. ENV216",
+          "value": "2-env216",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "3-dc2726a": {
+          "type": "header",
+          "text": "3. DC2726A",
+          "value": "3-dc2726a",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "4-kel103": {
+          "type": "header",
+          "text": "4. KEL103",
+          "value": "4-kel103",
+          "line": 60,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "hh5zshxy0qy3vz7qtq8qqal",
+      "data": {}
+    },
+    "lf4m1v6zueilycz2gzb7m5t": {
+      "id": "lf4m1v6zueilycz2gzb7m5t",
+      "title": "Équipements",
+      "desc": "",
+      "updated": 1657202944629,
+      "created": 1657195562799,
+      "nav_order": 25,
+      "custom": {
+        "nav_order": 25
+      },
+      "fname": "equipements",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "bcf04776e2f4a5bb36669a0b9fa88b56",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "equipements",
+            "id": "lf4m1v6zueilycz2gzb7m5t",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 43
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.DC2726A"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "equipements",
+            "id": "lf4m1v6zueilycz2gzb7m5t",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.ENV216",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 122
+            },
+            "end": {
+              "line": 8,
+              "column": 24,
+              "offset": 145
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.ENV216"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "equipements",
+            "id": "lf4m1v6zueilycz2gzb7m5t",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.FPC-COM2",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 172
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 197
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.FPC-COM2"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "equipements",
+            "id": "lf4m1v6zueilycz2gzb7m5t",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.EZ-17",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 220
+            },
+            "end": {
+              "line": 16,
+              "column": 23,
+              "offset": 242
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.EZ-17"
+          }
+        }
+      ],
+      "anchors": {
+        "carte-dalimentations-et-de-découpage": {
+          "type": "header",
+          "text": "Carte d'Alimentations et de Découpage",
+          "value": "carte-dalimentations-et-de-découpage",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "rsil---réseau-stabilisateur-dimpédance-de-ligne": {
+          "type": "header",
+          "text": "RSIL - Réseau Stabilisateur d'Impédance de Ligne",
+          "value": "rsil---réseau-stabilisateur-dimpédance-de-ligne",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "analyseur-de-spectre": {
+          "type": "header",
+          "text": "Analyseur de Spectre",
+          "value": "analyseur-de-spectre",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "sonde-de-courant": {
+          "type": "header",
+          "text": "Sonde de Courant",
+          "value": "sonde-de-courant",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "utlgnhdux3bt90j2w3b9p2r",
+        "40ng0573hq4s8a7ievy0ibd",
+        "ao73qia5a2bh2xftnk4jut8",
+        "cr16tj8mvkp666jwwvnyau2",
+        "az0l9vflea6oj3m41e59lda",
+        "80cmxj9quk6ydcuiualzvwt"
+      ],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "80cmxj9quk6ydcuiualzvwt": {
+      "id": "80cmxj9quk6ydcuiualzvwt",
+      "title": "KEL103",
+      "desc": "",
+      "updated": 1658306468509,
+      "created": 1658306463876,
+      "custom": {},
+      "fname": "equipements.KEL103",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "5954a0de04b45e3c8f67e4a00baab035",
+      "links": [
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 13,
+              "offset": 1318
+            },
+            "end": {
+              "line": 36,
+              "column": 35,
+              "offset": 1340
+            },
+            "indent": []
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103"
+        },
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 41,
+              "offset": 2430
+            },
+            "end": {
+              "line": 64,
+              "column": 63,
+              "offset": 2452
+            },
+            "indent": []
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 13,
+              "offset": 1615
+            },
+            "end": {
+              "line": 40,
+              "column": 35,
+              "offset": 1637
+            },
+            "indent": []
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 63,
+              "column": 7,
+              "offset": 2402
+            },
+            "end": {
+              "line": 63,
+              "column": 29,
+              "offset": 2424
+            },
+            "indent": []
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 7,
+              "offset": 2514
+            },
+            "end": {
+              "line": 64,
+              "column": 29,
+              "offset": 2536
+            },
+            "indent": []
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 68,
+              "column": 37,
+              "offset": 2748
+            },
+            "end": {
+              "line": 68,
+              "column": 59,
+              "offset": 2770
+            },
+            "indent": []
+          },
+          "value": "equipements.KEL103",
+          "alias": "equipements.KEL103"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "lf4m1v6zueilycz2gzb7m5t",
+      "data": {}
+    },
+    "az0l9vflea6oj3m41e59lda": {
+      "id": "az0l9vflea6oj3m41e59lda",
+      "title": "GEN1500W",
+      "desc": "",
+      "updated": 1658306711563,
+      "created": 1658306667901,
+      "custom": {},
+      "fname": "equipements.GEN1500W",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "e6ce2993f1f679f13f234a9dbf861961",
+      "links": [
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 13,
+              "offset": 1198
+            },
+            "end": {
+              "line": 33,
+              "column": 37,
+              "offset": 1222
+            },
+            "indent": []
+          },
+          "value": "equipements.GEN1500W",
+          "alias": "equipements.GEN1500W"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 37,
+              "column": 13,
+              "offset": 1495
+            },
+            "end": {
+              "line": 37,
+              "column": 37,
+              "offset": 1519
+            },
+            "indent": []
+          },
+          "value": "equipements.GEN1500W",
+          "alias": "equipements.GEN1500W"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "lf4m1v6zueilycz2gzb7m5t",
+      "data": {}
+    },
+    "cr16tj8mvkp666jwwvnyau2": {
+      "id": "cr16tj8mvkp666jwwvnyau2",
+      "title": "FPC-COM2",
+      "desc": "",
+      "updated": 1657276697480,
+      "created": 1657195825141,
+      "custom": {},
+      "fname": "equipements.FPC-COM2",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "605bcd10473b6ff6db4a876df41e9ccf",
+      "links": [
+        {
+          "from": {
+            "fname": "equipements",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 172
+            },
+            "end": {
+              "line": 12,
+              "column": 26,
+              "offset": 197
+            },
+            "indent": []
+          },
+          "value": "equipements.FPC-COM2"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 38,
+              "offset": 274
+            },
+            "end": {
+              "line": 16,
+              "column": 62,
+              "offset": 298
+            },
+            "indent": []
+          },
+          "value": "equipements.FPC-COM2",
+          "alias": "equipements.FPC-COM2"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 1,
+              "offset": 497
+            },
+            "end": {
+              "line": 31,
+              "column": 50,
+              "offset": 546
+            },
+            "indent": []
+          },
+          "value": "equipements.FPC-COM2"
+        }
+      ],
+      "anchors": {
+        "documents": {
+          "type": "header",
+          "text": "Documents",
+          "value": "documents",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "data-sheet-fpc-com2": {
+          "type": "header",
+          "text": "Data Sheet FPC-COM2",
+          "value": "data-sheet-fpc-com2",
+          "line": 18,
+          "column": 0,
+          "depth": 1
+        },
+        "power-states": {
+          "type": "header",
+          "text": "Power States",
+          "value": "power-states",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "instrument-tour": {
+          "type": "header",
+          "text": "Instrument Tour",
+          "value": "instrument-tour",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "front": {
+          "type": "header",
+          "text": "Front",
+          "value": "front",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "rear": {
+          "type": "header",
+          "text": "Rear",
+          "value": "rear",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "screen": {
+          "type": "header",
+          "text": "Screen",
+          "value": "screen",
+          "line": 52,
+          "column": 0,
+          "depth": 3
+        },
+        "trace-modes": {
+          "type": "header",
+          "text": "Trace Modes",
+          "value": "trace-modes",
+          "line": 72,
+          "column": 0,
+          "depth": 2
+        },
+        "detectors": {
+          "type": "header",
+          "text": "Detectors",
+          "value": "detectors",
+          "line": 76,
+          "column": 0,
+          "depth": 2
+        },
+        "measurements": {
+          "type": "header",
+          "text": "Measurements",
+          "value": "measurements",
+          "line": 80,
+          "column": 0,
+          "depth": 2
+        },
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        },
+        "measurement-sensitivity": {
+          "type": "header",
+          "text": "Measurement Sensitivity",
+          "value": "measurement-sensitivity",
+          "line": 86,
+          "column": 0,
+          "depth": 3
+        },
+        "transducers": {
+          "type": "header",
+          "text": "Transducers",
+          "value": "transducers",
+          "line": 91,
+          "column": 0,
+          "depth": 3
+        },
+        "triger-config": {
+          "type": "header",
+          "text": "Triger Config",
+          "value": "triger-config",
+          "line": 100,
+          "column": 0,
+          "depth": 2
+        },
+        "frequency-demodulation": {
+          "type": "header",
+          "text": "Frequency Demodulation",
+          "value": "frequency-demodulation",
+          "line": 104,
+          "column": 0,
+          "depth": 2
+        },
+        "measurement-filter": {
+          "type": "header",
+          "text": "Measurement Filter",
+          "value": "measurement-filter",
+          "line": 127,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lf4m1v6zueilycz2gzb7m5t",
+      "data": {}
+    },
+    "ao73qia5a2bh2xftnk4jut8": {
+      "id": "ao73qia5a2bh2xftnk4jut8",
+      "title": "EZ-17",
+      "desc": "",
+      "updated": 1657278024751,
+      "created": 1657196199907,
+      "custom": {},
+      "fname": "equipements.EZ-17",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "07bcb8975af1f38416f40d0d6107324a",
+      "links": [
+        {
+          "from": {
+            "fname": "equipements",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 220
+            },
+            "end": {
+              "line": 16,
+              "column": 23,
+              "offset": 242
+            },
+            "indent": []
+          },
+          "value": "equipements.EZ-17"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 24,
+              "offset": 322
+            },
+            "end": {
+              "line": 17,
+              "column": 45,
+              "offset": 343
+            },
+            "indent": []
+          },
+          "value": "equipements.EZ-17",
+          "alias": "equipements.EZ-17"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 1,
+              "offset": 561
+            },
+            "end": {
+              "line": 35,
+              "column": 44,
+              "offset": 604
+            },
+            "indent": []
+          },
+          "value": "equipements.EZ-17"
+        }
+      ],
+      "anchors": {
+        "documents": {
+          "type": "header",
+          "text": "Documents",
+          "value": "documents",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "model-02": {
+          "type": "header",
+          "text": "Model 02",
+          "value": "model-02",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "model-03": {
+          "type": "header",
+          "text": "Model 03",
+          "value": "model-03",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "data-sheet-ez-17": {
+          "type": "header",
+          "text": "Data Sheet EZ-17",
+          "value": "data-sheet-ez-17",
+          "line": 30,
+          "column": 0,
+          "depth": 1
+        },
+        "transducer-factor-k": {
+          "type": "header",
+          "text": "Transducer Factor k",
+          "value": "transducer-factor-k",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "specifications": {
+          "type": "header",
+          "text": "Specifications",
+          "value": "specifications",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "ordering-information": {
+          "type": "header",
+          "text": "Ordering Information",
+          "value": "ordering-information",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lf4m1v6zueilycz2gzb7m5t",
+      "data": {}
+    },
+    "40ng0573hq4s8a7ievy0ibd": {
+      "id": "40ng0573hq4s8a7ievy0ibd",
+      "title": "ENV216",
+      "desc": "",
+      "updated": 1657207611480,
+      "created": 1657195722544,
+      "custom": {},
+      "fname": "equipements.ENV216",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "563f436e31c7a64b584686a63ced9d4a",
+      "links": [
+        {
+          "from": {
+            "fname": "equipements",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 122
+            },
+            "end": {
+              "line": 8,
+              "column": 24,
+              "offset": 145
+            },
+            "indent": []
+          },
+          "value": "equipements.ENV216"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 20,
+              "offset": 214
+            },
+            "end": {
+              "line": 15,
+              "column": 42,
+              "offset": 236
+            },
+            "indent": []
+          },
+          "value": "equipements.ENV216",
+          "alias": "equipements.ENV216"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 1,
+              "offset": 433
+            },
+            "end": {
+              "line": 27,
+              "column": 47,
+              "offset": 479
+            },
+            "indent": []
+          },
+          "value": "equipements.ENV216"
+        },
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 18,
+              "offset": 1240
+            },
+            "end": {
+              "line": 34,
+              "column": 40,
+              "offset": 1262
+            },
+            "indent": []
+          },
+          "value": "equipements.ENV216",
+          "alias": "equipements.ENV216"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 18,
+              "offset": 1537
+            },
+            "end": {
+              "line": 38,
+              "column": 40,
+              "offset": 1559
+            },
+            "indent": []
+          },
+          "value": "equipements.ENV216",
+          "alias": "equipements.ENV216"
+        }
+      ],
+      "anchors": {
+        "documents": {
+          "type": "header",
+          "text": "Documents",
+          "value": "documents",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "data-sheet-env216": {
+          "type": "header",
+          "text": "Data Sheet ENV216",
+          "value": "data-sheet-env216",
+          "line": 18,
+          "column": 0,
+          "depth": 1
+        },
+        "block-diagram": {
+          "type": "header",
+          "text": "Block Diagram",
+          "value": "block-diagram",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "instrument-tour": {
+          "type": "header",
+          "text": "Instrument Tour",
+          "value": "instrument-tour",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "front": {
+          "type": "header",
+          "text": "Front",
+          "value": "front",
+          "line": 30,
+          "column": 0,
+          "depth": 3
+        },
+        "rear": {
+          "type": "header",
+          "text": "Rear",
+          "value": "rear",
+          "line": 46,
+          "column": 0,
+          "depth": 3
+        },
+        "side": {
+          "type": "header",
+          "text": "Side",
+          "value": "side",
+          "line": 56,
+          "column": 0,
+          "depth": 3
+        },
+        "normes-for-measurement-set-up": {
+          "type": "header",
+          "text": "NORMES for Measurement Set Up",
+          "value": "normes-for-measurement-set-up",
+          "line": 63,
+          "column": 0,
+          "depth": 2
+        },
+        "sample-measurement": {
+          "type": "header",
+          "text": "Sample Measurement",
+          "value": "sample-measurement",
+          "line": 77,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lf4m1v6zueilycz2gzb7m5t",
+      "data": {}
+    },
+    "utlgnhdux3bt90j2w3b9p2r": {
+      "id": "utlgnhdux3bt90j2w3b9p2r",
+      "title": "DC2726A",
+      "desc": "",
+      "updated": 1658304874787,
+      "created": 1657195615975,
+      "custom": {},
+      "fname": "equipements.DC2726A",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "8e2541225d79cdf4ba5e205059af4f5d",
+      "links": [
+        {
+          "from": {
+            "fname": "equipements",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 43
+            },
+            "end": {
+              "line": 4,
+              "column": 25,
+              "offset": 67
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 52,
+              "offset": 171
+            },
+            "end": {
+              "line": 14,
+              "column": 75,
+              "offset": 194
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A"
+        },
+        {
+          "from": {
+            "fname": "Meetings.202207071600",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 369
+            },
+            "end": {
+              "line": 23,
+              "column": 49,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A"
+        },
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 74,
+              "offset": 143
+            },
+            "end": {
+              "line": 8,
+              "column": 143,
+              "offset": 212
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "Quick Start Procedure"
+        },
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 251,
+              "offset": 320
+            },
+            "end": {
+              "line": 8,
+              "column": 274,
+              "offset": 343
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A"
+        },
+        {
+          "from": {
+            "fname": "experimentations.MesuresTestDCKEL",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 20,
+              "offset": 1282
+            },
+            "end": {
+              "line": 35,
+              "column": 43,
+              "offset": 1305
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 53,
+              "offset": 232
+            },
+            "end": {
+              "line": 10,
+              "column": 76,
+              "offset": 255
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 14,
+              "offset": 270
+            },
+            "end": {
+              "line": 12,
+              "column": 83,
+              "offset": 339
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "Quick Start Procedure"
+        },
+        {
+          "from": {
+            "fname": "experimentations.Testing-DC2726A",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 39,
+              "column": 20,
+              "offset": 1579
+            },
+            "end": {
+              "line": 39,
+              "column": 43,
+              "offset": 1602
+            },
+            "indent": []
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A"
+        }
+      ],
+      "anchors": {
+        "documents": {
+          "type": "header",
+          "text": "Documents",
+          "value": "documents",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        },
+        "data-sheet-dc2726a": {
+          "type": "header",
+          "text": "Data Sheet DC2726A",
+          "value": "data-sheet-dc2726a",
+          "line": 22,
+          "column": 0,
+          "depth": 1
+        },
+        "quick-start-procedure": {
+          "type": "header",
+          "text": "Quick Start Procedure",
+          "value": "quick-start-procedure",
+          "line": 52,
+          "column": 0,
+          "depth": 1
+        },
+        "measuring-output-voltage": {
+          "type": "header",
+          "text": "Measuring Output Voltage",
+          "value": "measuring-output-voltage",
+          "line": 94,
+          "column": 0,
+          "depth": 1
+        },
+        "method": {
+          "type": "header",
+          "text": "Method",
+          "value": "method",
+          "line": 96,
+          "column": 0,
+          "depth": 2
+        },
+        "efficiency-vs-load-current": {
+          "type": "header",
+          "text": "Efficiency vs Load Current",
+          "value": "efficiency-vs-load-current",
+          "line": 100,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "lf4m1v6zueilycz2gzb7m5t",
+      "data": {}
+    },
+    "9v4uvpqrwm0c54j3eohyuuz": {
+      "id": "9v4uvpqrwm0c54j3eohyuuz",
+      "title": "Éléctroniques",
+      "desc": "",
+      "updated": 1657106578690,
+      "created": 1656947234362,
+      "nav_order": 40,
+      "custom": {
+        "nav_order": 40
+      },
+      "fname": "electronics",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "904bf9d6cad4562c7ec1cf9a33bcb63d",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "electronics",
+            "id": "9v4uvpqrwm0c54j3eohyuuz",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "electronics.convention",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 54,
+              "offset": 79
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "electronics.convention",
+            "anchorHeader": "convention-décriture,1:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "electronics",
+            "id": "9v4uvpqrwm0c54j3eohyuuz",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "electronics.symbols",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 109
+            },
+            "end": {
+              "line": 8,
+              "column": 54,
+              "offset": 162
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "electronics.symbols",
+            "anchorHeader": "symboles-en-électronique,1"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "electronics",
+            "id": "9v4uvpqrwm0c54j3eohyuuz",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "electronics.unite",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 181
+            },
+            "end": {
+              "line": 12,
+              "column": 42,
+              "offset": 222
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "electronics.unite",
+            "anchorHeader": "unité-décibel,1:#*"
+          }
+        }
+      ],
+      "anchors": {
+        "convention-décriture": {
+          "type": "header",
+          "text": "Convention d'écriture",
+          "value": "convention-décriture",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "symboles-en-électronique": {
+          "type": "header",
+          "text": "Symboles en électronique",
+          "value": "symboles-en-électronique",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "unité-décibel": {
+          "type": "header",
+          "text": "Unité décibel",
+          "value": "unité-décibel",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        },
+        "": {
+          "type": "header",
+          "text": "...",
+          "value": "",
+          "line": 21,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "5e2tlw4z8lz79ryhcpg2gff",
+        "igqwe6wc30abx6k89c8bnla",
+        "7rvgxvcmzc1j5amj8osmt99"
+      ],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "7rvgxvcmzc1j5amj8osmt99": {
+      "id": "7rvgxvcmzc1j5amj8osmt99",
+      "title": "Unité",
+      "desc": "",
+      "updated": 1657106742265,
+      "created": 1657092472087,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "electronics.unite",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "e5677ad815b210825cc0c0a025190be7",
+      "links": [
+        {
+          "from": {
+            "fname": "electronics",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 181
+            },
+            "end": {
+              "line": 12,
+              "column": 42,
+              "offset": 222
+            },
+            "indent": []
+          },
+          "value": "electronics.unite"
+        }
+      ],
+      "anchors": {
+        "unité-décibel": {
+          "type": "header",
+          "text": "Unité Décibel",
+          "value": "unité-décibel",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "9v4uvpqrwm0c54j3eohyuuz",
+      "data": {}
+    },
+    "igqwe6wc30abx6k89c8bnla": {
+      "id": "igqwe6wc30abx6k89c8bnla",
+      "title": "Symbols",
+      "desc": "",
+      "updated": 1657106739080,
+      "created": 1656947271344,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "electronics.symbols",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "8da5eb2ee29829a2cbb96311c37ad367",
+      "links": [
+        {
+          "from": {
+            "fname": "electronics",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 109
+            },
+            "end": {
+              "line": 8,
+              "column": 54,
+              "offset": 162
+            },
+            "indent": []
+          },
+          "value": "electronics.symbols"
+        }
+      ],
+      "anchors": {
+        "symboles-en-électronique": {
+          "type": "header",
+          "text": "Symboles en électronique",
+          "value": "symboles-en-électronique",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "inducteur": {
+          "type": "header",
+          "text": "Inducteur",
+          "value": "inducteur",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "capaciteur": {
+          "type": "header",
+          "text": "Capaciteur",
+          "value": "capaciteur",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "résistance": {
+          "type": "header",
+          "text": "Résistance",
+          "value": "résistance",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "diode": {
+          "type": "header",
+          "text": "Diode",
+          "value": "diode",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "9v4uvpqrwm0c54j3eohyuuz",
+      "data": {}
+    },
+    "5e2tlw4z8lz79ryhcpg2gff": {
+      "id": "5e2tlw4z8lz79ryhcpg2gff",
+      "title": "Convention",
+      "desc": "",
+      "updated": 1657106748274,
+      "created": 1657092204601,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "electronics.convention",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "acf154f4b91fddd166549be88aa18755",
+      "links": [
+        {
+          "from": {
+            "fname": "electronics",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 54,
+              "offset": 79
+            },
+            "indent": []
+          },
+          "value": "electronics.convention"
+        }
+      ],
+      "anchors": {
+        "convention-décriture": {
+          "type": "header",
+          "text": "Convention d'écriture",
+          "value": "convention-décriture",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "9v4uvpqrwm0c54j3eohyuuz",
+      "data": {}
+    },
+    "fgo6qop4ppb1plx9ljnj4rx": {
+      "id": "fgo6qop4ppb1plx9ljnj4rx",
+      "title": "Stage",
+      "desc": "",
+      "updated": 1657106690446,
+      "created": 1656619611134,
+      "nav_order": 90,
+      "custom": {
+        "nav_order": 90
+      },
+      "fname": "Stage",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "102f1412497b3586b11a4f6b1f042144",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CEM",
+          "alias": "CEM",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 14,
+              "offset": 305
+            },
+            "end": {
+              "line": 20,
+              "column": 21,
+              "offset": 312
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CEM"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CE",
+          "alias": "Convertisseur d'Énergie",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 25,
+              "offset": 316
+            },
+            "end": {
+              "line": 20,
+              "column": 55,
+              "offset": 346
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CE"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CE",
+          "alias": "CE",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 109,
+              "offset": 511
+            },
+            "end": {
+              "line": 22,
+              "column": 115,
+              "offset": 517
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CE"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CEM",
+          "alias": "CEM",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 66,
+              "offset": 675
+            },
+            "end": {
+              "line": 25,
+              "column": 73,
+              "offset": 682
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CEM"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CEM",
+          "alias": "CEM",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 34,
+              "offset": 903
+            },
+            "end": {
+              "line": 42,
+              "column": 41,
+              "offset": 910
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CEM"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CE",
+          "alias": "CE",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 46,
+              "offset": 915
+            },
+            "end": {
+              "line": 42,
+              "column": 52,
+              "offset": 921
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CE"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CE",
+          "alias": "CE",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 43,
+              "offset": 1029
+            },
+            "end": {
+              "line": 44,
+              "column": 49,
+              "offset": 1035
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "CE"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Stage",
+            "id": "fgo6qop4ppb1plx9ljnj4rx",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "LAPLACE",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 196
+            },
+            "end": {
+              "line": 14,
+              "column": 80,
+              "offset": 275
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "LAPLACE",
+            "anchorHeader": "mdce---matériaux-diélectriques-dans-la-conversion-de-lenergie:#*"
+          }
+        }
+      ],
+      "anchors": {
+        "contexte": {
+          "type": "header",
+          "text": "Contexte",
+          "value": "contexte",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "stagiaire-": {
+          "type": "header",
+          "text": "Stagiaire :",
+          "value": "stagiaire-",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "responsable-": {
+          "type": "header",
+          "text": "Responsable :",
+          "value": "responsable-",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "période-": {
+          "type": "header",
+          "text": "Période :",
+          "value": "période-",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "groupe-de-recherche-": {
+          "type": "header",
+          "text": "Groupe de recherche :",
+          "value": "groupe-de-recherche-",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "objectifs": {
+          "type": "header",
+          "text": "Objectifs",
+          "value": "objectifs",
+          "line": 25,
+          "column": 0,
+          "depth": 1
+        },
+        "modalités": {
+          "type": "header",
+          "text": "Modalités",
+          "value": "modalités",
+          "line": 37,
+          "column": 0,
+          "depth": 1
+        },
+        "milestones": {
+          "type": "header",
+          "text": "Milestones",
+          "value": "milestones",
+          "line": 43,
+          "column": 0,
+          "depth": 1
+        },
+        "organisation-préliminaire-du-stage": {
+          "type": "header",
+          "text": "Organisation préliminaire du stage",
+          "value": "organisation-préliminaire-du-stage",
+          "line": 45,
+          "column": 0,
+          "depth": 2
+        },
+        "étude-des-fondamentaux-sur-la-cem-des-ce": {
+          "type": "header",
+          "text": "Étude des fondamentaux sur la CEM des CE",
+          "value": "étude-des-fondamentaux-sur-la-cem-des-ce",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        },
+        "conception-de-la-maquette-de-tp": {
+          "type": "header",
+          "text": "Conception de la maquette de TP",
+          "value": "conception-de-la-maquette-de-tp",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "sa2wl7eipsrh6hg7li052oe": {
+      "id": "sa2wl7eipsrh6hg7li052oe",
+      "title": "Meetings",
+      "desc": "",
+      "updated": 1657201101321,
+      "created": 1656622427215,
+      "nav_order": 30,
+      "custom": {
+        "nav_order": 30
+      },
+      "fname": "Meetings",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "cccf418e85ead0e1bb6af14d285dce74",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings",
+            "id": "sa2wl7eipsrh6hg7li052oe",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Meetings.202207010800",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 27,
+              "offset": 55
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "Meetings.202207010800"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings",
+            "id": "sa2wl7eipsrh6hg7li052oe",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Meetings.202207040930",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 85
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 111
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "Meetings.202207040930"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings",
+            "id": "sa2wl7eipsrh6hg7li052oe",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Meetings.202207060900",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 141
+            },
+            "end": {
+              "line": 12,
+              "column": 27,
+              "offset": 167
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "Meetings.202207060900"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings",
+            "id": "sa2wl7eipsrh6hg7li052oe",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Meetings.202207071600",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 197
+            },
+            "end": {
+              "line": 16,
+              "column": 27,
+              "offset": 223
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "Meetings.202207071600"
+          }
+        }
+      ],
+      "anchors": {
+        "débriefing-du-20220701": {
+          "type": "header",
+          "text": "Débriefing du 2022/07/01",
+          "value": "débriefing-du-20220701",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "débriefing-du-20220704": {
+          "type": "header",
+          "text": "Débriefing du 2022/07/04",
+          "value": "débriefing-du-20220704",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "débriefing-du-20220706": {
+          "type": "header",
+          "text": "Débriefing du 2022/07/06",
+          "value": "débriefing-du-20220706",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        },
+        "débriefing-du-20220707": {
+          "type": "header",
+          "text": "Débriefing du 2022/07/07",
+          "value": "débriefing-du-20220707",
+          "line": 21,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "46gvp7zdql9zo4pw4aw7sd2",
+        "xlmqt8j603149nttemahpc3",
+        "on7andokext9r3icay2q2wf",
+        "cab05mtsxc3z3iw6x1h28s8"
+      ],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "cab05mtsxc3z3iw6x1h28s8": {
+      "id": "cab05mtsxc3z3iw6x1h28s8",
+      "title": "202207071600",
+      "desc": "",
+      "updated": 1657282819337,
+      "created": 1657200476200,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "Meetings.202207071600",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "128fb3cf88a7f1886456a7a9250480f2",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "alias": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 52,
+              "offset": 171
+            },
+            "end": {
+              "line": 14,
+              "column": 75,
+              "offset": 194
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.DC2726A"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.ENV216",
+          "alias": "equipements.ENV216",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 20,
+              "offset": 214
+            },
+            "end": {
+              "line": 15,
+              "column": 42,
+              "offset": 236
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.ENV216"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.FPC-COM2",
+          "alias": "equipements.FPC-COM2",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 38,
+              "offset": 274
+            },
+            "end": {
+              "line": 16,
+              "column": 62,
+              "offset": 298
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.FPC-COM2"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.EZ-17",
+          "alias": "equipements.EZ-17",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 24,
+              "offset": 322
+            },
+            "end": {
+              "line": 17,
+              "column": 45,
+              "offset": 343
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "equipements.EZ-17"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.DC2726A",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 369
+            },
+            "end": {
+              "line": 23,
+              "column": 49,
+              "offset": 417
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.DC2726A",
+            "anchorHeader": "data-sheet-DC2726A:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.ENV216",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 1,
+              "offset": 433
+            },
+            "end": {
+              "line": 27,
+              "column": 47,
+              "offset": 479
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.ENV216",
+            "anchorHeader": "data-sheet-env216:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.FPC-COM2",
+          "position": {
+            "start": {
+              "line": 31,
+              "column": 1,
+              "offset": 497
+            },
+            "end": {
+              "line": 31,
+              "column": 50,
+              "offset": 546
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.FPC-COM2",
+            "anchorHeader": "data-sheet-fpc-com2"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Meetings.202207071600",
+            "id": "cab05mtsxc3z3iw6x1h28s8",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "equipements.EZ-17",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 1,
+              "offset": 561
+            },
+            "end": {
+              "line": 35,
+              "column": 44,
+              "offset": 604
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "equipements.EZ-17",
+            "anchorHeader": "data-sheet-ez-17"
+          }
+        },
+        {
+          "from": {
+            "fname": "Meetings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 1,
+              "offset": 197
+            },
+            "end": {
+              "line": 16,
+              "column": 27,
+              "offset": 223
+            },
+            "indent": []
+          },
+          "value": "Meetings.202207071600"
+        }
+      ],
+      "anchors": {
+        "participants": {
+          "type": "header",
+          "text": "Participants",
+          "value": "participants",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "agenda": {
+          "type": "header",
+          "text": "Agenda",
+          "value": "agenda",
+          "line": 19,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 26,
+          "column": 0,
+          "depth": 1
+        },
+        "1-dc2736a": {
+          "type": "header",
+          "text": "1. DC2736A",
+          "value": "1-dc2736a",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "2-env216": {
+          "type": "header",
+          "text": "2. ENV216",
+          "value": "2-env216",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "3-fpc-com2": {
+          "type": "header",
+          "text": "3. FPC-COM2",
+          "value": "3-fpc-com2",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "4-ez-17": {
+          "type": "header",
+          "text": "4. EZ-17",
+          "value": "4-ez-17",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sa2wl7eipsrh6hg7li052oe",
+      "data": {}
+    },
+    "on7andokext9r3icay2q2wf": {
+      "id": "on7andokext9r3icay2q2wf",
+      "title": "202207060900",
+      "desc": "",
+      "updated": 1657282598958,
+      "created": 1657200896412,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "Meetings.202207060900",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "eebdce45336a9e0106df3e688373b17d",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207060900",
+            "id": "on7andokext9r3icay2q2wf",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "precis",
+          "alias": "precis",
+          "position": {
+            "start": {
+              "line": 43,
+              "column": 96,
+              "offset": 1039
+            },
+            "end": {
+              "line": 43,
+              "column": 106,
+              "offset": 1049
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "precis"
+          }
+        },
+        {
+          "from": {
+            "fname": "Meetings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 1,
+              "offset": 141
+            },
+            "end": {
+              "line": 12,
+              "column": 27,
+              "offset": 167
+            },
+            "indent": []
+          },
+          "value": "Meetings.202207060900"
+        }
+      ],
+      "anchors": {
+        "participants": {
+          "type": "header",
+          "text": "Participants",
+          "value": "participants",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "agenda": {
+          "type": "header",
+          "text": "Agenda",
+          "value": "agenda",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 24,
+          "column": 0,
+          "depth": 1
+        },
+        "convention-décriture": {
+          "type": "header",
+          "text": "Convention d'écriture",
+          "value": "convention-décriture",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "représentation-de-fresnel": {
+          "type": "header",
+          "text": "Représentation de Fresnel",
+          "value": "représentation-de-fresnel",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "résistance": {
+          "type": "header",
+          "text": "Résistance",
+          "value": "résistance",
+          "line": 38,
+          "column": 0,
+          "depth": 3
+        },
+        "inducteur": {
+          "type": "header",
+          "text": "Inducteur",
+          "value": "inducteur",
+          "line": 59,
+          "column": 0,
+          "depth": 3
+        },
+        "capaciteur": {
+          "type": "header",
+          "text": "Capaciteur",
+          "value": "capaciteur",
+          "line": 65,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "sa2wl7eipsrh6hg7li052oe",
+      "data": {}
+    },
+    "xlmqt8j603149nttemahpc3": {
+      "id": "xlmqt8j603149nttemahpc3",
+      "title": "202207040930",
+      "desc": "",
+      "updated": 1657101951510,
+      "created": 1656922993577,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "Meetings.202207040930",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "cf68a72ce917373523ff888f5c1e44b0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207040930",
+            "id": "xlmqt8j603149nttemahpc3",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Lexique.ThmAmpere",
+          "alias": "Théorème d'Ampère",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 82,
+              "offset": 1023
+            },
+            "end": {
+              "line": 41,
+              "column": 121,
+              "offset": 1062
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Lexique.ThmAmpere"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Meetings.202207040930",
+            "id": "xlmqt8j603149nttemahpc3",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "Lexique.LoiMaxwellFaraday",
+          "alias": "loi de Maxwell-Faraday",
+          "position": {
+            "start": {
+              "line": 43,
+              "column": 48,
+              "offset": 1148
+            },
+            "end": {
+              "line": 43,
+              "column": 100,
+              "offset": 1200
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Lexique.LoiMaxwellFaraday"
+          }
+        },
+        {
+          "from": {
+            "fname": "Meetings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 8,
+              "column": 1,
+              "offset": 85
+            },
+            "end": {
+              "line": 8,
+              "column": 27,
+              "offset": 111
+            },
+            "indent": []
+          },
+          "value": "Meetings.202207040930"
+        },
+        {
+          "from": {
+            "fname": "questions",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 89
+            },
+            "end": {
+              "line": 6,
+              "column": 70,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "value": "Meetings.202207040930"
+        }
+      ],
+      "anchors": {
+        "participants": {
+          "type": "header",
+          "text": "Participants",
+          "value": "participants",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "agenda": {
+          "type": "header",
+          "text": "Agenda",
+          "value": "agenda",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        },
+        "todo": {
+          "type": "header",
+          "text": "ToDo",
+          "value": "todo",
+          "line": 25,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 32,
+          "column": 0,
+          "depth": 1
+        },
+        "schema-de-la-maquette": {
+          "type": "header",
+          "text": "Schema de la maquette",
+          "value": "schema-de-la-maquette",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "transformateur--tore": {
+          "type": "header",
+          "text": "Transformateur / Tore",
+          "value": "transformateur--tore",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "courants-à-mode-différentielcommun-mdmc": {
+          "type": "header",
+          "text": "Courants à Mode Différentiel/Commun (MD/MC)",
+          "value": "courants-à-mode-différentielcommun-mdmc",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "perturbation-liées-aux-convertisseurs": {
+          "type": "header",
+          "text": "Perturbation liées aux convertisseurs",
+          "value": "perturbation-liées-aux-convertisseurs",
+          "line": 83,
+          "column": 0,
+          "depth": 2
+        },
+        "impédance-à-approfondir": {
+          "type": "header",
+          "text": "Impédance (à approfondir)",
+          "value": "impédance-à-approfondir",
+          "line": 115,
+          "column": 0,
+          "depth": 2
+        },
+        "rsil-à-vérifier-et-à-compléter": {
+          "type": "header",
+          "text": "RSIL (à vérifier et à compléter)",
+          "value": "rsil-à-vérifier-et-à-compléter",
+          "line": 134,
+          "column": 0,
+          "depth": 2
+        },
+        "différents-types-de-convertisseurs": {
+          "type": "header",
+          "text": "Différents types de convertisseurs",
+          "value": "différents-types-de-convertisseurs",
+          "line": 144,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sa2wl7eipsrh6hg7li052oe",
+      "data": {}
+    },
+    "46gvp7zdql9zo4pw4aw7sd2": {
+      "id": "46gvp7zdql9zo4pw4aw7sd2",
+      "title": "202207010800",
+      "desc": "",
+      "updated": 1657102123677,
+      "created": 1656622570481,
+      "nav_exclude": true,
+      "custom": {
+        "nav_exclude": true
+      },
+      "fname": "Meetings.202207010800",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "e7de0a286a1a19090acf29601edf45c0",
+      "links": [
+        {
+          "from": {
+            "fname": "Meetings",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 1,
+              "offset": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 27,
+              "offset": 55
+            },
+            "indent": []
+          },
+          "value": "Meetings.202207010800"
+        }
+      ],
+      "anchors": {
+        "participants": {
+          "type": "header",
+          "text": "Participants",
+          "value": "participants",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "agenda": {
+          "type": "header",
+          "text": "Agenda",
+          "value": "agenda",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        },
+        "todo": {
+          "type": "header",
+          "text": "ToDo",
+          "value": "todo",
+          "line": 25,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 29,
+          "column": 0,
+          "depth": 1
+        },
+        "discussions-sur-les-convertisseurs-dénergie": {
+          "type": "header",
+          "text": "Discussions sur les convertisseurs d'énergie",
+          "value": "discussions-sur-les-convertisseurs-dénergie",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "discussion-sur-la-maquette-de-tp": {
+          "type": "header",
+          "text": "Discussion sur la maquette de TP",
+          "value": "discussion-sur-la-maquette-de-tp",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "sa2wl7eipsrh6hg7li052oe",
+      "data": {}
+    },
+    "p7kwup5sv8nc6kgjmed8182": {
+      "id": "p7kwup5sv8nc6kgjmed8182",
+      "title": "Lexique",
+      "desc": "",
+      "updated": 1657106663808,
+      "created": 1656623258277,
+      "nav_order": 70,
+      "custom": {
+        "nav_order": 70
+      },
+      "fname": "Lexique",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "6c3c19b6909138197e4e9b7c1951f3cf",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Lexique",
+            "id": "p7kwup5sv8nc6kgjmed8182",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CEM",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 52
+            },
+            "end": {
+              "line": 6,
+              "column": 25,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "CEM",
+            "anchorHeader": "définition,1:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Lexique",
+            "id": "p7kwup5sv8nc6kgjmed8182",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CEM",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 113
+            },
+            "end": {
+              "line": 10,
+              "column": 46,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "CEM",
+            "anchorHeader": "gammes-de-fréquences-concernées,1:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Lexique",
+            "id": "p7kwup5sv8nc6kgjmed8182",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CEM",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 197
+            },
+            "end": {
+              "line": 14,
+              "column": 47,
+              "offset": 243
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "CEM",
+            "anchorHeader": "mode-commun-et-mode-différentiel,1:#*"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "Lexique",
+            "id": "p7kwup5sv8nc6kgjmed8182",
+            "vaultName": "LaplaceCEM"
+          },
+          "value": "CE",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 284
+            },
+            "end": {
+              "line": 21,
+              "column": 21,
+              "offset": 304
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "CE",
+            "anchorHeader": "notion-ce1"
+          }
+        }
+      ],
+      "anchors": {
+        "notions-fondamentales-en-cem": {
+          "type": "header",
+          "text": "Notions Fondamentales en CEM",
+          "value": "notions-fondamentales-en-cem",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "définition-cem": {
+          "type": "header",
+          "text": "Définition CEM",
+          "value": "définition-cem",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "gamme-de-fréquences-concernées": {
+          "type": "header",
+          "text": "Gamme de fréquences concernées",
+          "value": "gamme-de-fréquences-concernées",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "mode-commun-et-mode-différentiel": {
+          "type": "header",
+          "text": "Mode Commun et Mode Différentiel",
+          "value": "mode-commun-et-mode-différentiel",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "notions-fondamentales-sur-les-ce": {
+          "type": "header",
+          "text": "Notions Fondamentales sur les CE",
+          "value": "notions-fondamentales-sur-les-ce",
+          "line": 26,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "6pwtixenmf5v99cqx26ffok": {
+      "id": "6pwtixenmf5v99cqx26ffok",
+      "title": "LAPLACE",
+      "desc": "",
+      "updated": 1657106507761,
+      "created": 1656614118214,
+      "nav_order": 10,
+      "custom": {
+        "nav_order": 10
+      },
+      "fname": "LAPLACE",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "3998410a57b71935d9279a279a72c6e0",
+      "links": [
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 196
+            },
+            "end": {
+              "line": 14,
+              "column": 80,
+              "offset": 275
+            },
+            "indent": []
+          },
+          "value": "LAPLACE"
+        }
+      ],
+      "anchors": {
+        "présentation": {
+          "type": "header",
+          "text": "Présentation",
+          "value": "présentation",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "groupes-de-recherche": {
+          "type": "header",
+          "text": "Groupes de Recherche",
+          "value": "groupes-de-recherche",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "mdce---matériaux-diélectriques-dans-la-conversion-de-lenergie": {
+          "type": "header",
+          "text": "MDCE - Matériaux Diélectriques dans la Conversion de l’Energie",
+          "value": "mdce---matériaux-diélectriques-dans-la-conversion-de-lenergie",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "présentation-1": {
+          "type": "header",
+          "text": "Présentation",
+          "value": "présentation-1",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "responsable-du-groupe-": {
+          "type": "header",
+          "text": "Responsable du groupe :",
+          "value": "responsable-du-groupe-",
+          "line": 23,
+          "column": 0,
+          "depth": 4
+        },
+        "objectifs-généraux-du-groupe-": {
+          "type": "header",
+          "text": "Objectifs généraux du groupe :",
+          "value": "objectifs-généraux-du-groupe-",
+          "line": 27,
+          "column": 0,
+          "depth": 4
+        },
+        "les-thèmes-de-recherche-": {
+          "type": "header",
+          "text": "Les thèmes de recherche :",
+          "value": "les-thèmes-de-recherche-",
+          "line": 34,
+          "column": 0,
+          "depth": 4
+        },
+        "mécanismes-physiques-et-corrélation-propriétésmatière": {
+          "type": "header",
+          "text": "Mécanismes physiques et corrélation propriétés/matière",
+          "value": "mécanismes-physiques-et-corrélation-propriétésmatière",
+          "line": 36,
+          "column": 0,
+          "depth": 5
+        },
+        "mécanismes-de-dégradations-et-vieillissement": {
+          "type": "header",
+          "text": "Mécanismes de dégradations et vieillissement",
+          "value": "mécanismes-de-dégradations-et-vieillissement",
+          "line": 44,
+          "column": 0,
+          "depth": 5
+        },
+        "technologies-pour-lintégration-de-puissance-3d": {
+          "type": "header",
+          "text": "Technologies pour l’intégration de puissance 3D",
+          "value": "technologies-pour-lintégration-de-puissance-3d",
+          "line": 50,
+          "column": 0,
+          "depth": 5
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "zew0272lkhnespesu1u8poy": {
+      "id": "zew0272lkhnespesu1u8poy",
+      "title": "CEM",
+      "desc": "",
+      "updated": 1657106640429,
+      "created": 1656619679882,
+      "nav_order": 50,
+      "custom": {
+        "nav_order": 50
+      },
+      "fname": "CEM",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "9ea9ba9708e2a49d650c099e874d3c6d",
+      "links": [
+        {
+          "from": {
+            "fname": "Lexique",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 1,
+              "offset": 52
+            },
+            "end": {
+              "line": 6,
+              "column": 25,
+              "offset": 76
+            },
+            "indent": []
+          },
+          "value": "CEM"
+        },
+        {
+          "from": {
+            "fname": "Lexique",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 113
+            },
+            "end": {
+              "line": 10,
+              "column": 46,
+              "offset": 158
+            },
+            "indent": []
+          },
+          "value": "CEM"
+        },
+        {
+          "from": {
+            "fname": "Lexique",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 197
+            },
+            "end": {
+              "line": 14,
+              "column": 47,
+              "offset": 243
+            },
+            "indent": []
+          },
+          "value": "CEM"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 14,
+              "offset": 305
+            },
+            "end": {
+              "line": 20,
+              "column": 21,
+              "offset": 312
+            },
+            "indent": []
+          },
+          "value": "CEM",
+          "alias": "CEM"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 66,
+              "offset": 675
+            },
+            "end": {
+              "line": 25,
+              "column": 73,
+              "offset": 682
+            },
+            "indent": []
+          },
+          "value": "CEM",
+          "alias": "CEM"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 34,
+              "offset": 903
+            },
+            "end": {
+              "line": 42,
+              "column": 41,
+              "offset": 910
+            },
+            "indent": []
+          },
+          "value": "CEM",
+          "alias": "CEM"
+        }
+      ],
+      "anchors": {
+        "compatibilité-electro-magnétique": {
+          "type": "header",
+          "text": "Compatibilité Electro-Magnétique",
+          "value": "compatibilité-electro-magnétique",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "définition": {
+          "type": "header",
+          "text": "Définition",
+          "value": "définition",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "notions-importantes": {
+          "type": "header",
+          "text": "Notions Importantes",
+          "value": "notions-importantes",
+          "line": 35,
+          "column": 0,
+          "depth": 1
+        },
+        "gammes-de-fréquences-concernées": {
+          "type": "header",
+          "text": "Gammes de Fréquences Concernées",
+          "value": "gammes-de-fréquences-concernées",
+          "line": 37,
+          "column": 0,
+          "depth": 2
+        },
+        "mode-commun-et-mode-différentiel": {
+          "type": "header",
+          "text": "Mode Commun et Mode Différentiel",
+          "value": "mode-commun-et-mode-différentiel",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    },
+    "4f6k6zb97u27d1kbsjtnl2r": {
+      "id": "4f6k6zb97u27d1kbsjtnl2r",
+      "title": "CE",
+      "desc": "",
+      "updated": 1657106624120,
+      "created": 1656619909764,
+      "nav_order": 60,
+      "custom": {
+        "nav_order": 60
+      },
+      "fname": "CE",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "737e613a6c2eecffe4941d4ee44669e9",
+      "links": [
+        {
+          "from": {
+            "fname": "Lexique",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 284
+            },
+            "end": {
+              "line": 21,
+              "column": 21,
+              "offset": 304
+            },
+            "indent": []
+          },
+          "value": "CE"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 25,
+              "offset": 316
+            },
+            "end": {
+              "line": 20,
+              "column": 55,
+              "offset": 346
+            },
+            "indent": []
+          },
+          "value": "CE",
+          "alias": "Convertisseur d'Énergie"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 109,
+              "offset": 511
+            },
+            "end": {
+              "line": 22,
+              "column": 115,
+              "offset": 517
+            },
+            "indent": []
+          },
+          "value": "CE",
+          "alias": "CE"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 46,
+              "offset": 915
+            },
+            "end": {
+              "line": 42,
+              "column": 52,
+              "offset": 921
+            },
+            "indent": []
+          },
+          "value": "CE",
+          "alias": "CE"
+        },
+        {
+          "from": {
+            "fname": "Stage",
+            "vaultName": "LaplaceCEM"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 43,
+              "offset": 1029
+            },
+            "end": {
+              "line": 44,
+              "column": 49,
+              "offset": 1035
+            },
+            "indent": []
+          },
+          "value": "CE",
+          "alias": "CE"
+        }
+      ],
+      "anchors": {
+        "les-convertisseurs-dénergie": {
+          "type": "header",
+          "text": "Les Convertisseurs d'Énergie",
+          "value": "les-convertisseurs-dénergie",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "définition": {
+          "type": "header",
+          "text": "Définition",
+          "value": "définition",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "applications": {
+          "type": "header",
+          "text": "Applications",
+          "value": "applications",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "problématiques": {
+          "type": "header",
+          "text": "Problématiques",
+          "value": "problématiques",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "notions-importantes": {
+          "type": "header",
+          "text": "Notions Importantes",
+          "value": "notions-importantes",
+          "line": 23,
+          "column": 0,
+          "depth": 1
+        },
+        "notion-ce1": {
+          "type": "header",
+          "text": "Notion CE1",
+          "value": "notion-ce1",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "5rf6eplv88n6y9vptvze4hn",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "5rf6eplv88n6y9vptvze4hn",
+      "title": "Stage d'Été au LAPLACE",
+      "desc": "",
+      "updated": 1657107278098,
+      "created": 1656613772927,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "LaplaceCEM"
+      },
+      "contentHash": "6018288a017838bf9521adeeb9b78e10",
+      "links": [],
+      "anchors": {
+        "avertissements": {
+          "type": "header",
+          "text": "Avertissements",
+          "value": "avertissements",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "à-propos": {
+          "type": "header",
+          "text": "À propos",
+          "value": "à-propos",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "4f6k6zb97u27d1kbsjtnl2r",
+        "zew0272lkhnespesu1u8poy",
+        "6pwtixenmf5v99cqx26ffok",
+        "p7kwup5sv8nc6kgjmed8182",
+        "sa2wl7eipsrh6hg7li052oe",
+        "fgo6qop4ppb1plx9ljnj4rx",
+        "9v4uvpqrwm0c54j3eohyuuz",
+        "lf4m1v6zueilycz2gzb7m5t",
+        "hh5zshxy0qy3vz7qtq8qqal",
+        "m0fzmzw0ymejo8ydrupqqv8",
+        "lq9ooc0pngdmdnu21102wgk",
+        "245jbzz3wpdjvsdgmes2bn4"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# Avertissements\n\n- Le contenu mis à disposition dans **_ce site peut présenter des erreurs_** !\n\n- Le site contient aussi des copier-collers donc nous ne prétendons pas être les auteurs de ces contenus !\n\n- Il s'agit uniquement d'organiser les connaissances acquises à travers diverses sources et notes personnelles.\n\n# À propos\n\nCe dossier répertorie les travaux réalisés par Antoine RONK lors de son stage d'été au laboratoire de recherche LAPLACE de l'Université Paul Sabatier de Toulouse.\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "5rf6eplv88n6y9vptvze4hn",
+    "title": "Stage d'Été au LAPLACE",
+    "desc": "",
+    "updated": 1657107278098,
+    "created": 1656613772927,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "LaplaceCEM"
+    },
+    "contentHash": "6018288a017838bf9521adeeb9b78e10",
+    "links": [],
+    "anchors": {
+      "avertissements": {
+        "type": "header",
+        "text": "Avertissements",
+        "value": "avertissements",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      },
+      "à-propos": {
+        "type": "header",
+        "text": "À propos",
+        "value": "à-propos",
+        "line": 16,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "4f6k6zb97u27d1kbsjtnl2r",
+      "zew0272lkhnespesu1u8poy",
+      "6pwtixenmf5v99cqx26ffok",
+      "p7kwup5sv8nc6kgjmed8182",
+      "sa2wl7eipsrh6hg7li052oe",
+      "fgo6qop4ppb1plx9ljnj4rx",
+      "9v4uvpqrwm0c54j3eohyuuz",
+      "lf4m1v6zueilycz2gzb7m5t",
+      "hh5zshxy0qy3vz7qtq8qqal",
+      "m0fzmzw0ymejo8ydrupqqv8",
+      "lq9ooc0pngdmdnu21102wgk",
+      "245jbzz3wpdjvsdgmes2bn4"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n# Avertissements\n\n- Le contenu mis à disposition dans **_ce site peut présenter des erreurs_** !\n\n- Le site contient aussi des copier-collers donc nous ne prétendons pas être les auteurs de ces contenus !\n\n- Il s'agit uniquement d'organiser les connaissances acquises à travers diverses sources et notes personnelles.\n\n# À propos\n\nCe dossier répertorie les travaux réalisés par Antoine RONK lors de son stage d'été au laboratoire de recherche LAPLACE de l'Université Paul Sabatier de Toulouse.\n"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "LaplaceCEM"
+    }
+  ]
+}

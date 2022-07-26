@@ -1,0 +1,386 @@
+<h1 id="équipements"><a aria-hidden="true" class="anchor-heading" href="#équipements"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Équipements</h1>
+<h2 id="carte-dalimentations-et-de-découpage"><a aria-hidden="true" class="anchor-heading" href="#carte-dalimentations-et-de-découpage"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Carte d'Alimentations et de Découpage</h2>
+<p></p><p></p><div class="portal-container">
+<div class="portal-head">
+<div class="portal-backlink">
+<div class="portal-title">From <span class="portal-text-title">DC2726A</span></div>
+<a href="/LaplaceCEM/notes/utlgnhdux3bt90j2w3b9p2r" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+</div>
+</div>
+<div id="portal-parent-anchor" class="portal-parent" markdown="1">
+<div class="portal-parent-fader-top"></div>
+<div class="portal-parent-fader-bottom"></div><blockquote>
+<p>LTC7800EUDC Demo Circuit 2726A</p>
+</blockquote>
+<h1 id="documents"><a aria-hidden="true" class="anchor-heading" href="#documents"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Documents</h1>
+<ul>
+<li><img src="/LaplaceCEM/assets/DC2736A.DemoManual.pdf" alt="DC2736A Demo Manual"> (<a href="https://www.analog.com/media/en/technical-documentation/user-guides/dc2736af.pdf">download</a>)</li>
+<li><img src="/LaplaceCEM/assets/DC2736A.Schematics.pdf" alt="DC2736A Schematics"> (<a href="https://www.analog.com/media/en/technical-documentation/eval-board-schematic/DC2736A-2-SCH.PDF">download</a>)</li>
+</ul>
+<h1 id="description"><a aria-hidden="true" class="anchor-heading" href="#description"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Description</h1>
+<ul>
+<li>High Frequency Synchronous Buck Converter with GaN Transistors</li>
+</ul>
+<p><img src="/LaplaceCEM/assets/images/dc2736a.pic.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h1 id="data-sheet-dc2726a"><a aria-hidden="true" class="anchor-heading" href="#data-sheet-dc2726a"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Data Sheet DC2726A</h1>
+<p><img src="/LaplaceCEM/assets/images/dc2736a.PerformanceSummary.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ul>
+<li>
+<p>programmable fixed frequency from 320kHz up to 2.25MHz</p>
+</li>
+<li>
+<p>3 modes</p>
+<ul>
+<li>forced continuous operation</li>
+<li>pulse-skipping operation</li>
+<li>Burst Mode® operation</li>
+</ul>
+</li>
+<li>
+<p><strong>Limitations</strong></p>
+<ul>
+<li>Input
+<ul>
+<li>DC 30V-55V</li>
+<li>LT 60V max</li>
+</ul>
+</li>
+<li>Output
+<ul>
+<li>DC 12V with 20A</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>LTC has two integrated 5V gate drivers with 20ns dead time</p>
+</li>
+<li>
+<p>The <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> pin permits the LTC7800 to be powered from the output of
+the switching regulator or other available source</p>
+</li>
+</ul>
+<p><img src="/LaplaceCEM/assets/images/dc2736a.CardMapping.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<p><img src="/LaplaceCEM/assets/images/dc2736a.schematic.png" style="max-width:800px;display:block;margin:0 auto;"></p>
+<ul>
+<li>INTVCC3 ???</li>
+</ul>
+<h1 id="quick-start-procedure"><a aria-hidden="true" class="anchor-heading" href="#quick-start-procedure"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Quick Start Procedure</h1>
+<p>Demonstration circuit 2736A is easy to set up to evaluate the performance of the LTC7800. Refer to Figure 1 for the proper measurement equipment setup and follow the procedure below. </p>
+<ol>
+<li>
+<p>With board not connected, adjust the input power supply to 48V, then turn off the input power supply. Make sure the input power supply is capable of 10A at 30V.</p>
+</li>
+<li>
+<p>With power off, connect the input power supply to <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mrow><mi>I</mi><mi>N</mi></mrow></msub></mrow><annotation encoding="application/x-tex">V_{IN}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> and <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mi>N</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">GND</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">GN</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span></span></span></span></span> terminal of the board.</p>
+</li>
+<li>
+<p>Connect the output load between <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mrow><mi>O</mi><mi>U</mi><mi>T</mi></mrow></msub></mrow><annotation encoding="application/x-tex">V_{OUT}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">O</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">U</span><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> and <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mi>N</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">GND</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">GN</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span></span></span></span></span> (Initial load: no load). Refer to Figure 1.</p>
+</li>
+<li>
+<p>Connect the DVMs to the input and output.</p>
+</li>
+<li>
+<p>Check the default jumper/switch position: JP7: ON; JP13: CCM.</p>
+</li>
+<li>
+<p>Turn on the input power supply.</p>
+<p>NOTE: The input voltage range for the board is 30V to 55V.</p>
+</li>
+<li>
+<p>Check for the proper output voltage from <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mrow><mi>O</mi><mi>U</mi><mi>T</mi></mrow></msub></mrow><annotation encoding="application/x-tex">V_{OUT}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">O</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">U</span><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> to <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mi>N</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">GND</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">GN</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span></span></span></span></span>. The output voltage should be between 11.76V to 12.24V.</p>
+</li>
+<li>
+<p>Once the proper output voltage is established, adjust the loads within the operating range (0A to 20A) and observe the output voltage regulation, ripple voltage and other parameters.</p>
+</li>
+<li>
+<p>After completing all tests, adjust the load to 0A, turn
+off the input power supply.</p>
+</li>
+</ol>
+<p>Notes: </p>
+<ol>
+<li>When measuring the output or input voltage ripple, do not use the long ground lead on the oscilloscope probe. See Figure 2 for the proper scope probe technique. Short, stiff leads need to be soldered to the (+) and (–) terminals of an output capacitor. The probe’s ground ring needs to touch the (–) lead and the probe tip needs to touch the (+) lead.</li>
+<li>Please set the electronic load in CR (constant resistance) mode for the evaluation of the board. The default setup of the 2736A board is to have <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> pin connected to <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mrow><mi>O</mi><mi>U</mi><mi>T</mi></mrow></msub></mrow><annotation encoding="application/x-tex">V_{OUT}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.02778em;">O</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">U</span><span class="mord mathnormal mtight" style="margin-right:0.13889em;">T</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>. Some electronic load outputs negative voltage when doing output overcurrent test of the
+board, which exceeds the absolute maximum rating
+–0.3V on <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> pin of LTC7800.</li>
+</ol>
+<p>External <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> Option </p>
+<p>By default, the <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> pin of LTC7800 on DC2736A board is connected to the output of the converter with R69 (0Ω) for good efficiency and good thermal performance. Please follow the below procedure if an external power supply is used to bias the LTC7800 <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> pin (Do not float this pin). </p>
+<ol>
+<li>
+<p>Remove R69 on the board. </p>
+</li>
+<li>
+<p>Apply a DC voltage (recommend 5.5V – 13V) on <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> and <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mi>N</mi><mi>D</mi></mrow><annotation encoding="application/x-tex">GND</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.10903em;">GN</span><span class="mord mathnormal" style="margin-right:0.02778em;">D</span></span></span></span></span> turret after the input voltage is established. Make sure <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub><mo>&#x3C;</mo><msub><mi>V</mi><mrow><mi>I</mi><mi>N</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC} &#x3C; V_{IN}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">&#x3C;</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07847em;">I</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>.</p>
+</li>
+<li>
+<p>Turn off the DC bias on the <span class="math math-inline"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi><mi>X</mi><mi>T</mi><msub><mi>V</mi><mrow><mi>C</mi><mi>C</mi></mrow></msub></mrow><annotation encoding="application/x-tex">EXTV_{CC}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">EXT</span><span class="mord"><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3283em;"><span style="top:-2.55em;margin-left:-0.2222em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">CC</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span> before powering
+off the input power supply.</p>
+</li>
+</ol>
+<h1 id="measuring-output-voltage"><a aria-hidden="true" class="anchor-heading" href="#measuring-output-voltage"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Measuring Output Voltage</h1>
+<h2 id="method"><a aria-hidden="true" class="anchor-heading" href="#method"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Method</h2>
+<p><img src="/LaplaceCEM/assets/images/dc2736a.MeasuringOutputVoltage.png" style="max-width:300px;display:block;margin:0 auto;"></p>
+<h2 id="efficiency-vs-load-current"><a aria-hidden="true" class="anchor-heading" href="#efficiency-vs-load-current"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Efficiency vs Load Current</h2>
+<p><img src="/LaplaceCEM/assets/images/dc2736a.measure.EfficiencyVsLoad.Vout12vFsw500hz.png" style="max-width:300px;display:block;margin:0 auto;"></p>
+</div></div><p></p><p></p>
+<h2 id="rsil---réseau-stabilisateur-dimpédance-de-ligne"><a aria-hidden="true" class="anchor-heading" href="#rsil---réseau-stabilisateur-dimpédance-de-ligne"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>RSIL - Réseau Stabilisateur d'Impédance de Ligne</h2>
+<p></p><p></p><div class="portal-container">
+<div class="portal-head">
+<div class="portal-backlink">
+<div class="portal-title">From <span class="portal-text-title">ENV216</span></div>
+<a href="/LaplaceCEM/notes/40ng0573hq4s8a7ievy0ibd" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+</div>
+</div>
+<div id="portal-parent-anchor" class="portal-parent" markdown="1">
+<div class="portal-parent-fader-top"></div>
+<div class="portal-parent-fader-bottom"></div><h1 id="documents-1"><a aria-hidden="true" class="anchor-heading" href="#documents-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Documents</h1>
+<ul>
+<li><img src="/LaplaceCEM/assets/ENV216.UserManualV5.pdf" alt="ENV216 User Manual V5"> (<a href="https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/pdm/cl_manuals/user_manual/5201_6693_01/ENV216_UserManual_en_05.pdf">download</a>)</li>
+</ul>
+<h1 id="description-1"><a aria-hidden="true" class="anchor-heading" href="#description-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Description</h1>
+<p><img src="/LaplaceCEM/assets/images/env216.Pic.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<p>...</p>
+<h1 id="data-sheet-env216"><a aria-hidden="true" class="anchor-heading" href="#data-sheet-env216"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Data Sheet ENV216</h1>
+<p>!!! READ SAFETY INSTRUCTIONS !!!</p>
+<p><img src="/LaplaceCEM/assets/images/env216.SafetyLabels.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="block-diagram"><a aria-hidden="true" class="anchor-heading" href="#block-diagram"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Block Diagram</h2>
+<p><img src="/LaplaceCEM/assets/images/env216.BlockDiagram.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="instrument-tour"><a aria-hidden="true" class="anchor-heading" href="#instrument-tour"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Instrument Tour</h2>
+<h3 id="front"><a aria-hidden="true" class="anchor-heading" href="#front"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Front</h3>
+<p><img src="/LaplaceCEM/assets/images/env216.PicFront.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>EUT Socket </li>
+<li>Reference ground connectors (4-mm-jacks) </li>
+<li>L1 LED, phase indicator </li>
+<li>ON LED </li>
+<li>Remote LED </li>
+<li>N key </li>
+<li>L1 key </li>
+<li>150 kHz highpass </li>
+<li>Limiter toggle </li>
+<li>Artificial hand connector</li>
+<li>RF Output connector</li>
+</ol>
+<h3 id="rear"><a aria-hidden="true" class="anchor-heading" href="#rear"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Rear</h3>
+<p><img src="/LaplaceCEM/assets/images/env216.PicRear.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>Remote Control connector </li>
+<li>Protective grounding bolt </li>
+<li>Mains connection cable </li>
+<li>Reference ground rail</li>
+<li>External power supply socket</li>
+</ol>
+<h3 id="side"><a aria-hidden="true" class="anchor-heading" href="#side"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Side</h3>
+<p><img src="/LaplaceCEM/assets/images/env216.PicSide.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>Metric M4 screw </li>
+<li>Grounding rail</li>
+</ol>
+<h2 id="normes-for-measurement-set-up"><a aria-hidden="true" class="anchor-heading" href="#normes-for-measurement-set-up"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>NORMES for Measurement Set Up</h2>
+<p><img src="/LaplaceCEM/assets/images/env216.NormesMeasurement.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>Metal wall, at least 2 m x 2 m </li>
+<li>Equipment under test </li>
+<li>Cable in folded configuration </li>
+<li>Two-Line V-Network </li>
+<li>Shielded connection cable </li>
+<li>Test receiver </li>
+<li>B = Reference ground connection </li>
+<li>M = Test receiver connector</li>
+<li>P = Test device connector</li>
+</ol>
+<h2 id="sample-measurement"><a aria-hidden="true" class="anchor-heading" href="#sample-measurement"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Sample Measurement</h2>
+<p><img src="/LaplaceCEM/assets/images/env216.SampleMeasurement.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>Metal wall, at least 2 m x 2 m </li>
+<li>Equipment under test </li>
+<li>Connection cable </li>
+<li>Connection cable running separately to the hand simulation </li>
+<li>Two-Line V-Network </li>
+<li>Metallic collar capable being gripped </li>
+<li>Test receiver </li>
+<li>A = Power supply connection </li>
+<li>B = Reference ground connection, low-inductance (e.g. brass plate, 0.2 m) </li>
+<li>D = Metal foils </li>
+<li>H = Artificial Hand connector </li>
+<li>M = Test receiver connector</li>
+<li>P = Test device connector</li>
+</ol>
+</div></div><p></p><p></p>
+<h2 id="analyseur-de-spectre"><a aria-hidden="true" class="anchor-heading" href="#analyseur-de-spectre"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Analyseur de Spectre</h2>
+<p></p><p></p><div class="portal-container">
+<div class="portal-head">
+<div class="portal-backlink">
+<div class="portal-title">From <span class="portal-text-title">FPC-COM2</span></div>
+<a href="/LaplaceCEM/notes/cr16tj8mvkp666jwwvnyau2" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+</div>
+</div>
+<div id="portal-parent-anchor" class="portal-parent" markdown="1">
+<div class="portal-parent-fader-top"></div>
+<div class="portal-parent-fader-bottom"></div><h1 id="documents-2"><a aria-hidden="true" class="anchor-heading" href="#documents-2"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Documents</h1>
+<ul>
+<li><img src="/LaplaceCEM/assets/FPC.UserManualV11.pdf" alt="FPC User Manual V11"> (<a href="https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/pdm/cl_manuals/user_manual/1178_4130_01/FPC_UserManual_en_11.pdf">download</a>)</li>
+</ul>
+<h1 id="description-2"><a aria-hidden="true" class="anchor-heading" href="#description-2"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Description</h1>
+<p><img src="/LaplaceCEM/assets/images/fpc.Pic.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<p>...</p>
+<h1 id="data-sheet-fpc-com2"><a aria-hidden="true" class="anchor-heading" href="#data-sheet-fpc-com2"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Data Sheet FPC-COM2</h1>
+<h2 id="power-states"><a aria-hidden="true" class="anchor-heading" href="#power-states"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Power States</h2>
+<p><img src="/LaplaceCEM/assets/images/fpc.PowerStates.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<p><strong>NOTICE !</strong></p>
+<p><strong>Risk of data loss.</strong> If you disconnect the product from power when it is in the ready state, you can lose settings and data. Shut it down first.
+Set the switch on the power supply to position [0].</p>
+<h2 id="instrument-tour-1"><a aria-hidden="true" class="anchor-heading" href="#instrument-tour-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Instrument Tour</h2>
+<h3 id="front-1"><a aria-hidden="true" class="anchor-heading" href="#front-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Front</h3>
+<p><img src="/LaplaceCEM/assets/images/fpc.PicFront.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>USB ports (type A) </li>
+<li>Headphone jack </li>
+<li>Softkeys </li>
+<li>Signal source output </li>
+<li>Function keys and alphanumeric keypad </li>
+<li>RF Input</li>
+<li>Power switch</li>
+</ol>
+<h3 id="rear-1"><a aria-hidden="true" class="anchor-heading" href="#rear-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Rear</h3>
+<p><img src="/LaplaceCEM/assets/images/fpc.PicRear.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>Trigger input / external reference </li>
+<li>LAN </li>
+<li>USB port (type B)</li>
+<li>Power supply</li>
+</ol>
+<h3 id="screen"><a aria-hidden="true" class="anchor-heading" href="#screen"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Screen</h3>
+<p><img src="/LaplaceCEM/assets/images/fpc.PicScreen.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<ol>
+<li>Title bar </li>
+<li>Measurement settings </li>
+<li>Trace information </li>
+<li>Marker information </li>
+<li>Limit line information </li>
+<li>Diagram area </li>
+<li>Input field </li>
+<li>Softkeys </li>
+<li>Star icon </li>
+<li>Limit line </li>
+<li>Marker </li>
+<li>Delta marker </li>
+<li>Trace </li>
+<li>Sweep count</li>
+<li>X-axis information</li>
+</ol>
+<h2 id="trace-modes"><a aria-hidden="true" class="anchor-heading" href="#trace-modes"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Trace Modes</h2>
+<p><img src="/LaplaceCEM/assets/images/fpc.TableTraceModes.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="detectors"><a aria-hidden="true" class="anchor-heading" href="#detectors"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Detectors</h2>
+<p><img src="/LaplaceCEM/assets/images/fpc.TableDetectors.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="measurements"><a aria-hidden="true" class="anchor-heading" href="#measurements"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Measurements</h2>
+<h3 id="methods"><a aria-hidden="true" class="anchor-heading" href="#methods"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Methods</h3>
+<p>Check User Manual for details on how to set measurments</p>
+<h3 id="measurement-sensitivity"><a aria-hidden="true" class="anchor-heading" href="#measurement-sensitivity"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Measurement Sensitivity</h3>
+<ul>
+<li>Dependencies on selected reference levels and attenuation
+<img src="/LaplaceCEM/assets/images/fpc.TableDependenciesRefLevelsAttenuation.png" style="max-width:600px;display:block;margin:0 auto;"></li>
+</ul>
+<h3 id="transducers"><a aria-hidden="true" class="anchor-heading" href="#transducers"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Transducers</h3>
+<ul>
+<li>Units supported for transducer factors: 
+<ul>
+<li>dB </li>
+<li>dBµA </li>
+<li>dBμV/m </li>
+<li>dBμA/m</li>
+<li>W/m2</li>
+</ul>
+</li>
+</ul>
+<h2 id="triger-config"><a aria-hidden="true" class="anchor-heading" href="#triger-config"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Triger Config</h2>
+<p><img src="/LaplaceCEM/assets/images/fpc.TableTriggerDelayDependencies.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="frequency-demodulation"><a aria-hidden="true" class="anchor-heading" href="#frequency-demodulation"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Frequency Demodulation</h2>
+<ul>
+<li>
+<p>Table 16-1: Measurement times for the demodulation bandwidths
+<img src="/LaplaceCEM/assets/images/fpc.TableMeasurementTime.png" style="max-width:600px;display:block;margin:0 auto;">
+<img src="/LaplaceCEM/assets/images/fpc.TableMeasurementTimeBis.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</li>
+<li>
+<p>Table 16-2: Measurement time calculation for audio lowpass filters
+<img src="/LaplaceCEM/assets/images/fpc.TableMeasurementTimeLowPassFilter.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</li>
+<li>
+<p>Table 16-3: Minimum and maximum modulating frequencies for audio lowpass: DBW/1
+<img src="/LaplaceCEM/assets/images/fpc.TableModFreqDBW1.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</li>
+<li>
+<p>Table 16-4: Minimum and maximum modulating frequencies for audio lowpass: DBW/10
+<img src="/LaplaceCEM/assets/images/fpc.TableModFreqDBW10.png" style="max-width:600px;display:block;margin:0 auto;">
+<img src="/LaplaceCEM/assets/images/fpc.TableModFreqDBW10Bis.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</li>
+<li>
+<p>Table 16-5: Minimum and maximum modulating frequencies for audio lowpass: DBW/30
+<img src="/LaplaceCEM/assets/images/fpc.TableModFreqDBW30.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</li>
+<li>
+<p>Table 16-6: Minimum and maximum modulating frequencies for audio lowpass: DBW/100
+<img src="/LaplaceCEM/assets/images/fpc.TableModFreqDBW100.png" style="max-width:600px;display:block;margin:0 auto;">
+<img src="/LaplaceCEM/assets/images/fpc.TableModFreqDBW100Bis.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</li>
+</ul>
+<h2 id="measurement-filter"><a aria-hidden="true" class="anchor-heading" href="#measurement-filter"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Measurement Filter</h2>
+<p><img src="/LaplaceCEM/assets/images/fpc.BlockDiagramMeasurementFilter.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</div></div><p></p><p></p>
+<h2 id="sonde-de-courant"><a aria-hidden="true" class="anchor-heading" href="#sonde-de-courant"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Sonde de Courant</h2>
+<p></p><p></p><div class="portal-container">
+<div class="portal-head">
+<div class="portal-backlink">
+<div class="portal-title">From <span class="portal-text-title">EZ-17</span></div>
+<a href="/LaplaceCEM/notes/ao73qia5a2bh2xftnk4jut8" class="portal-arrow">Go to text <span class="right-arrow">→</span></a>
+</div>
+</div>
+<div id="portal-parent-anchor" class="portal-parent" markdown="1">
+<div class="portal-parent-fader-top"></div>
+<div class="portal-parent-fader-bottom"></div><h1 id="documents-3"><a aria-hidden="true" class="anchor-heading" href="#documents-3"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Documents</h1>
+<ul>
+<li><img src="/LaplaceCEM/assets/EZ17.DataSheetV03012005.pdf" alt="EZ-17 Data Sheet V03.01 2005"> (<a href="https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_brochures_and_datasheets/pdf_1/EZ-17_en.pdf">download</a>)</li>
+</ul>
+<h1 id="description-3"><a aria-hidden="true" class="anchor-heading" href="#description-3"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Description</h1>
+<p><img src="/LaplaceCEM/assets/images/ez17.Pic.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="model-02"><a aria-hidden="true" class="anchor-heading" href="#model-02"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Model 02</h2>
+<ul>
+<li>
+<p>for emission measurements in the range 20 Hz to 100 (200) MHz</p>
+</li>
+<li>
+<p>Model 02 with its flat frequency response above 1 MHz and output ­ impedance of 50 W is ideal for emission measurements as well as for
+measuring the shielding effectiveness</p>
+</li>
+</ul>
+<h2 id="model-03"><a aria-hidden="true" class="anchor-heading" href="#model-03"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Model 03</h2>
+<ul>
+<li>
+<p>for emission and susceptibility measurements in the range 20 Hz to 100 (200) MHz</p>
+</li>
+<li>
+<p>Due to its small transducer factor in the range from 1 MHz to 200 MHz, model 03 is particularly suitable for emission measurements with stringent requirements placed on sensitivity (e.g. VG 95 373 limit class 1) and, due to its high load capacity, also recommended for EMS measurements
+(bulk current injection tests)</p>
+</li>
+</ul>
+<h1 id="data-sheet-ez-17"><a aria-hidden="true" class="anchor-heading" href="#data-sheet-ez-17"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Data Sheet EZ-17</h1>
+<h2 id="transducer-factor-k"><a aria-hidden="true" class="anchor-heading" href="#transducer-factor-k"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Transducer Factor k</h2>
+<p><img src="/LaplaceCEM/assets/images/ez17.TransducerFactorK.png" style="max-width:300px;display:block;margin:0 auto;"></p>
+<h2 id="specifications"><a aria-hidden="true" class="anchor-heading" href="#specifications"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Specifications</h2>
+<p><img src="/LaplaceCEM/assets/images/ez17.Specifications.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+<h2 id="ordering-information"><a aria-hidden="true" class="anchor-heading" href="#ordering-information"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Ordering Information</h2>
+<p><img src="/LaplaceCEM/assets/images/ez17.OrderingInfo.png" style="max-width:600px;display:block;margin:0 auto;"></p>
+</div></div><p></p><p></p>
+<hr>
+<strong>Children</strong>
+<ol>
+<li><a href="/LaplaceCEM/notes/utlgnhdux3bt90j2w3b9p2r">DC2726A</a></li>
+<li><a href="/LaplaceCEM/notes/40ng0573hq4s8a7ievy0ibd">ENV216</a></li>
+<li><a href="/LaplaceCEM/notes/ao73qia5a2bh2xftnk4jut8">EZ-17</a></li>
+<li><a href="/LaplaceCEM/notes/cr16tj8mvkp666jwwvnyau2">FPC-COM2</a></li>
+<li><a href="/LaplaceCEM/notes/az0l9vflea6oj3m41e59lda">GEN1500W</a></li>
+<li><a href="/LaplaceCEM/notes/80cmxj9quk6ydcuiualzvwt">KEL103</a></li>
+</ol>
