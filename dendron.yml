@@ -94,7 +94,7 @@ publishing:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: https://tunnrka.github.io
+    siteUrl: https://tunnark.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
